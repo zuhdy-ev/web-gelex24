@@ -1,0 +1,7 @@
+export { default as Hero } from './Hero'
+export { default as SejarahGelanggang } from './SejarahGelanggang'
+export { default as Kenangan } from './Kenangan/Kenangan'
+export { default as Maskot } from './Maskot'
+export { default as MaskotGemmy } from './MaskotGemmy'
+export { default as Anthem } from './Anthem/Anthem'
+export { default as DetailTimeline } from './DetailTimeline/DetailTimeline'

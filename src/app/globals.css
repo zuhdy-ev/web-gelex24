@@ -1,0 +1,432 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* :root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(to bottom, transparent, rgb(var(--background-end-rgb)))
+    rgb(var(--background-start-rgb));
+} */
+
+@font-face {
+  font-family: 'Inter';
+  src:
+    url('/fonts/Inter-Regular.woff2') format('woff2'),
+    url('/fonts/Inter-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-mulish);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes underline-in {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes underline-out {
+  from {
+    width: 100%;
+  }
+  to {
+    width: 0;
+  }
+}
+
+/* Animasi untuk pembesaran teks */
+@keyframes text-grow {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+
+@keyframes text-shrink {
+  from {
+    transform: scale(1.1);
+  }
+  to {
+    transform: scale(1);
+  }
+}
+
+@keyframes moveCloudsUpDown {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-40px);
+  }
+}
+
+.animate-clouds {
+  animation: moveCloudsUpDown 5s ease-in-out infinite;
+}
+
+@keyframes rotateSign {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  25% {
+    transform: scale(0.95);
+  }
+  50% {
+    transform: scale(1);
+  }
+  75% {
+    transform: scale(0.95);
+  }
+}
+
+.animate-rotate-sign {
+  animation: rotateSign 7s ease-in-out infinite;
+}
+
+.animate-rotate-sign:hover {
+  transform: scale(0.95);
+  transition: transform 0.5s ease;
+}
+
+.animate-rotate-sign:active {
+  transform: scale(1);
+  transition: transform 0.1s ease;
+}
+
+@keyframes rotateUpDown {
+  0% {
+    transform: rotate(-3deg);
+  }
+  50% {
+    transform: rotate(3deg);
+  }
+  100% {
+    transform: rotate(-3deg);
+  }
+}
+
+.animate-rotate-sign2 {
+  animation: rotateUpDown 3s ease-in-out infinite;
+}
+
+.animate-rotate-sign2:hover,
+.animate-rotate-sign2:active {
+  transform: scale(1.5);
+  transition: transform 0.3s ease-in-out;
+}
+
+@keyframes flutter {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-10px) rotate(5deg);
+  }
+}
+
+.flutter {
+  animation: flutter 1s infinite ease-in-out;
+}
+
+.animate-underline-in {
+  animation: underline-in 0.3s forwards;
+}
+
+.animate-underline-out {
+  animation: underline-out 0.3s forwards;
+}
+
+.animate-text-grow {
+  animation: text-grow 0.3s forwards;
+}
+
+.animate-text-shrink {
+  animation: text-shrink 0.3s forwards;
+}
+
+.hover-underline {
+  position: relative;
+  display: inline-block;
+}
+
+.hover-underline::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 0;
+  height: 2px;
+  background: #e6a263;
+  transition: width 0.3s ease;
+}
+
+.hover-underline:hover::after {
+  width: 100%;
+}
+
+.hover-text-grow:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s ease;
+}
+
+.active-underline::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: -2px;
+  width: 100%;
+  height: 2px;
+  background: #e6a263;
+}
+
+.active-text {
+  font-size: 22px;
+  font-weight: 900;
+}
+
+.no-outline:focus {
+  outline: none;
+}
+
+.custom-dots li button:before {
+  font-size: 10px;
+  color: gray;
+}
+
+.custom-dots li.slick-active button:before {
+  color: white;
+  font-size: 12px;
+}
+
+.custom-dot {
+  width: 12px;
+  height: 12px;
+  background-color: gray;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.custom-dots .slick-active .custom-dot {
+  background-color: white;
+}
+
+.active-text {
+  text-shadow: 0px 2px 4px #ede0be;
+}
+@layer utilities {
+  .text-shadow {
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
+  }
+
+  .text-shadow-md {
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.15);
+  }
+
+  .text-shadow-lg {
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+}
+
+/* Section List */
+.scrollbar-list::-webkit-scrollbar {
+  width: 7px;
+}
+
+.scrollbar-list::-webkit-scrollbar-thumb {
+  background: #7f152e;
+  border-radius: 10px;
+}
+
+.dropdown-enter {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+
+.dropdown-enter-active {
+  max-height: 250px;
+}
+
+.dropdown-exit {
+  max-height: 250px;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in;
+}
+
+.dropdown-exit-active {
+  max-height: 0;
+}
+/* General scrollbar styles */
+::-webkit-scrollbar {
+  width: 12px; /* Sedikit lebih lebar untuk tampilan yang lebih jelas */
+}
+
+::-webkit-scrollbar-track {
+  background: linear-gradient(180deg, #ffcaca, #ffb6b6); /* Gradasi warna untuk track */
+  border-radius: 10px; /* Membuat track lebih halus */
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow untuk efek 3D */
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #7f152e, #bf1e3d); /* Gradasi warna untuk thumb */
+  border-radius: 10px; /* Membuat thumb lebih halus */
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2); /* Shadow untuk efek 3D */
+  border: 2px solid #ffcaca; /* Border untuk thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(
+    180deg,
+    #bf1e3d,
+    #7f152e
+  ); /* Inversi gradasi warna untuk efek hover */
+  border: 2px solid #ffb6b6; /* Border warna yang berbeda saat hover */
+}
+
+/* Optional: Styles for scrollbar corner for a smoother look in corners */
+::-webkit-scrollbar-corner {
+  background: #ffcaca; /* Warna background untuk corner */
+}
+
+/* Custom horizontal scrollbar styles */
+.scrollbar-custom::-webkit-scrollbar {
+  height: 5px; /* Adjust scrollbar height for horizontal scrollbar */
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: #666666; /* Track color */
+  margin: 100px; /* Creates padding around scrollbar */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: #888; /* Thumb color */
+  border-radius: 10px; /* Roundness of the scrollbar thumb */
+  border: 3px solid #f1f1f1; /* Creates padding around thumb */
+  width: 10px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background-color: #0eb7ce; /* Thumb color on hover */
+}
+
+/* Custom horizontal scrollbar styles */
+.scrollbar-custom::-webkit-scrollbar {
+  height: 5px; /* Adjust scrollbar height for horizontal scrollbar */
+}
+
+.scrollbar-custom::-webkit-scrollbar-track {
+  background: #666666; /* Track color */
+  margin: 100px; /* Creates padding around scrollbar */
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb {
+  background-color: #888; /* Thumb color */
+  border-radius: 10px; /* Roundness of the scrollbar thumb */
+  border: 3px solid #f1f1f1; /* Creates padding around thumb */
+  width: 10px;
+}
+
+.scrollbar-custom::-webkit-scrollbar-thumb:hover {
+  background-color: #0eb7ce; /* Thumb color on hover */
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  /* font-size: 18px; */
+  /* background: transparent; */
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Custom scrollbar styling in gallery profile ukm/komunitas */
+.swiper-scrollbar {
+  background: #f1f1f1;
+}
+
+.swiper-scrollbar-drag {
+  background: #888;
+  border-radius: 4px;
+}
+
+.swiper-scrollbar-drag:hover {
+  background: #555;
+}
+
+/* Aspect Ratio */
+.aspect-video-horizontal {
+  aspect-ratio: 16 / 9;
+}
+
+.aspect-video-vertical {
+  aspect-ratio: 9 / 16;
+}
+
+.aspect-video-square {
+  aspect-ratio: 1 / 1;
+}
+
+/* medpart logo */
+@media (min-width: 640px) {
+  .ml-responsive {
+    margin-left: calc((100% - (3 * var(--image-width))) / 2);
+  }
+}
+@media (min-width: 768px) {
+  .ml-responsive {
+    margin-left: calc((100% - (3 * var(--image-width))) / 2);
+  }
+}
+@media (min-width: 1024px) {
+  .ml-responsive {
+    margin-left: calc((100% - (3 * var(--image-width))) / 2);
+  }
+}
+@media (min-width: 1280px) {
+  .ml-responsive {
+    margin-left: calc((100% - (3 * var(--image-width))) / 2);
+  }
+}

@@ -1,0 +1,6 @@
+export { default as HeroDetailKomunitas } from './Hero/Hero'
+export { default as TentangDetailKomunitas } from './Tentang/Tentang'
+export { default as ProkerDetailKomunitas } from './Proker/Proker'
+export { default as GaleriDetailKomunitas } from './Galeri/Galeri'
+export { default as DivisiDetailKomunitas } from './Divisi/Divisi'
+export { default as MedsosDetailKomunitas } from './Medsos/Medsos'

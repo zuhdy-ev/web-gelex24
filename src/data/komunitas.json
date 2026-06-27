@@ -1,0 +1,3349 @@
+[
+  {
+    "id": 1,
+    "name": "Semar UGM",
+    "alias": "Semar UGM",
+    "category": null,
+    "video": "1FAT9ic5w7Wb59m3NTT1a9XWyhhJPiU01",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/semar.png",
+    "description": "Semar UGM is a student-led organization dedicated to researching, developing, and manufacturing ultra-low energy consumption vehicles. Since its inception in 2009, the team has undertaken numerous projects in support of global energy conservation efforts, earning recognition and awards in both national and international competitions.",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Merancang dan manufaktur mobil hemat energi",
+        "description": "Merancang dan manufaktur mobil hemat energi yang akan dilombakan 2 kali per tahun pada lomba nasional (Kontes Mobil Hemat Energi) dan internasional (Shell Eco-marathon Asia Pacific and the Middle East). Tim Semar sendiri memiliki 2 kendaraan, Prototype 4.0 (bertenaga listrik) dan Urban Hydroz 1.1 (bertenaga hidrogen)."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "General Manager",
+        "short": "General Manager"
+      },
+      {
+        "name": "Proto Manager",
+        "short": "Proto Manager"
+      },
+      {
+        "name": "Urban Manager",
+        "short": "Urban Manager"
+      },
+      {
+        "name": "Project Management Lead",
+        "short": "Project Management Lead"
+      },
+      {
+        "name": "Design and Manufacture",
+        "short": "Design and Manufacture"
+      },
+      {
+        "name": "Electrical",
+        "short": "Electrical"
+      },
+      {
+        "name": "Electric Motor",
+        "short": "Electric Motor"
+      },
+      {
+        "name": "Fuel Cell",
+        "short": "Fuel Cell"
+      },
+      {
+        "name": "Internal",
+        "short": "Internal"
+      },
+      {
+        "name": "External",
+        "short": "External"
+      },
+      {
+        "name": "Creative Media",
+        "short": "Creative Media"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1-wzeE11y8hf0y0ESyaXUWboLsqUbfqXa"
+      },
+      {
+        "alt": "2",
+        "url": "10GDV-sNgvZSybTXvLLhSpUry25dQ1vUi"
+      },
+      {
+        "alt": "3",
+        "url": "1YSKdmyMpfZTujrx93ujcOg0PD57noDY-"
+      },
+      {
+        "alt": "4",
+        "url": "1G7Ui_0K0ydPzOs_sErj64SCpVvW_rXK5"
+      },
+      {
+        "alt": "5",
+        "url": "1bLPbkuAVall8tDiTBb9TgsWaIx57Cw-A"
+      },
+      {
+        "alt": "6",
+        "url": "1idfq3ZIgdd-kfy_0V2Jvy3FcgNfdFrY5"
+      },
+      {
+        "alt": "7",
+        "url": "17sG19BgAk1qEmzeC8zPF91HSN789YCT_"
+      },
+      {
+        "alt": "8",
+        "url": "17S82Yk877adgkIUATM_rgdtwBtrFbIIH"
+      },
+      {
+        "alt": "9",
+        "url": ""
+      },
+      {
+        "alt": "10",
+        "url": ""
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.23797476113!2d110.3695114113625!3d-7.764568892222343!2m3!1f0!2f0!3f0!3m2!1i1024!2i7268!4f13.1!3m3!1m2!1s0x2e7a5851fc7bc49d%3A0x8ae809679a453a1f!2sFakultas%20Teknik%20Universitas%20Gadjah%20Mada%20Jl.%20Grafika%20No.2%20Sendowo%2C%Sinduadi%2C%Kec.%20Mlati%2C%Kabupaten%20Sleman%2C%20Daerah%20Istimewa%20Yogyakarta%2055281!5e0!3m2!1sid!2sid!4v1723468411853!5m2!1sid!2sid",
+      "detail": "Fakultas Teknik Universitas Gadjah Mada, Jl. Grafika No.2, Sendowo, Sinduadi, Sleman, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/semarugm?igsh=d2xxemNqNGZodmFm"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/@semarugm"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:semarugm.partnership@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": "https://semar.ugm.ac.id/"
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@semarugm"
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "GAMAFORCE",
+    "alias": "GAMAFORCE",
+    "category": null,
+    "video": "1YtsdFt8hqTZuGq8apdAEUNvqe4BVEmhg",
+    "unggulan": [""],
+    "prestasi": [""],
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/gamaforce.png",
+    "description": "GAMAFORCE (Gadjah Mada Flying Object Research Center) merupakan tim robot terbang Universitas Gadjah Mada yang menjadi wadah bagi mahasiswa yang berminat dalam bidang penelitian dan pengembangan UAV (Unmanned Aerial Vehicles). Dengan motto Jagat Saksana Dirga atau Guardians of the Horizon, kami berharap ilmu dan prestasi yang telah dicapai oleh tim kami dapat dimanfaatkan untuk mengembangkan teknologi kedirgantaraan terbaik dan menjaga langit bukan hanya di Indonesia tetapi juga di dunia.",
+    "history": "",
+    "programs": [
+      {
+        "name": "Kontes Robot Terbang Indonesia (KRTI)",
+        "description": "GAMAFORCE berkontribusi dalam memajukan teknologi kedirgantaraan melalui UAV hasil pengembangan mahasiswa yang setiap tahunnya mengikuti KRTI."
+      },
+      {
+        "name": "TEKNOFEST UAV FIGHTER COMPETITION",
+        "description": "GAMAFORCE berpartisipasi dalam kompetisi internasional TEKNOFEST UAV FIGHTER COMPETITION 2024 di Turki."
+      },
+      {
+        "name": "Pengembangan UAV",
+        "description": "Tim GAMAFORCE mengembangkan berbagai kategori UAV seperti Racing Plane, Vertical Take Off and Landing, Fixed Wing, Long Endurance Low Altitude, dan Technology Development."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Teknis",
+        "short": "Teknis"
+      },
+      {
+        "name": "Non-Teknis",
+        "short": "Manajerial"
+      },
+      {
+        "name": "Manajer Internal",
+        "short": "Manajer Internal"
+      },
+      {
+        "name": "Manajer Eksternal",
+        "short": "Manajer Eksternal"
+      },
+      {
+        "name": "Media",
+        "short": "Media"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "13tqP22GVY-0UL-aHUKs4IzbXi_Y-bbgv"
+      },
+      {
+        "alt": "2",
+        "url": "16O9MTbqmeJlZX2UIJ9aZI2quwalTFVq0"
+      },
+      {
+        "alt": "3",
+        "url": "17U9JxzzuBf7wgUFn-5oo2yz6h4O3FYvX"
+      },
+      {
+        "alt": "4",
+        "url": "17lkeO6gCk4tThGklqVS-gmw1Iew_2lPg"
+      },
+      {
+        "alt": "5",
+        "url": "1ECRbUv8uiXNozi-SAj1ORFEOnFm-A8Y0"
+      },
+      {
+        "alt": "6",
+        "url": "1LBvxlvVy5wjVBMZghNRhXpR-W0BB6NTK"
+      },
+      {
+        "alt": "7",
+        "url": "1R8iOaXcj6cSCElzsEjRKYPHVjEwq-ngd"
+      },
+      {
+        "alt": "8",
+        "url": "1auU373KpHVpfWRLdOdGARN3ZsxuZ9udZ"
+      },
+      {
+        "alt": "9",
+        "url": "1lIjE5QqdrlS_Kh6QWOxwWTzS9MNRto_v"
+      },
+      {
+        "alt": "10",
+        "url": "1sxFR3JNnuuyq8QKX5RZYDDwOEPUndPVk"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d988.2877550745986!2d110.37716064602135!3d-7.773806087310372!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a584aaa2d096b%3A0xbd125fdd4a20fc71!2sGAMAFORCE!5e0!3m2!1sid!2sid!4v1723468546731!5m2!1sid!2sid",
+      "detail": "Gadjah Mada University, Blk. D, Jl. Podocarpus II No.13, Sagan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/gamaforce"
+      },
+      {
+        "type": "youtube",
+        "url": "https://youtube.com/@gadjahmadaflyingobjectrese6302?si=LyR4ueiLXicnwUwo"
+      },
+      {
+        "type": "line",
+        "url": "https://line.me/R/ti/p/%40rafaalzenadhaem"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/gamaforce"
+      },
+      {
+        "type": "email",
+        "url": "mailto:komun.gamaforce@ugm.ac.id"
+      },
+      {
+        "type": "website",
+        "url": "https://gamaforce.wg.ugm.ac.id/"
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@gamaforce"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/gamaforce-ugm/mycompany/"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "UGM MUN Community",
+    "alias": "UGM MUN Community",
+    "category": null,
+    "video": "16m4WpFSQxLteS6ohbGL8UI3IfcV-BLQa",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/ugm mun.png",
+    "description": "Komunitas UGM MUN adalah sebuah komunitas Model Perserikatan Bangsa-Bangsa di Universitas Gadjah Mada (UGM) yang didirikan pada tanggal 17 September 2008. Hingga saat ini, komunitas terkemuka ini telah membantu lebih dari 800 mahasiswa dari 10 fakultas berbeda. Setiap tahunnya, Komunitas UGM MUN dengan bangga mengirimkan lebih dari 5 delegasi ke konferensi Model Perserikatan Bangsa-Bangsa internasional bergengsi, termasuk Harvard National Model United Nations (HNMUN).",
+    "history": [
+      "Model United Nations (MUN) memiliki sejarah yang unik ketika memasuki Indonesia. Sebagai salah satu kompetisi yang diimpor bersama oleh mahasiswa-mahasiswi universitas ternama Indonesia—beberapa dengan almamater Universitas Gadjah Mada (‘UGM’)—penting bagi UGM untuk mewadahi penerus-penerus Model United Nations di Indonesia. Sejak pendiriannya di tahun 2005, komunitas UGM MUN Community telah mencetak puluhan lulusan yang sekarang bekerja di institusi-institusi terpandang, mulai dari kedutaan besar, kementrian, sampai dengan korporasi-korporasi raksasa Indonesia.\n",
+
+      "Hal ini patut diatribusikan kepada skill dan network yang diwadahi oleh MUN, yang tidak hanya melatih kemampuan berpolitik, tapi berfikir dan berkomunikasi secara kritis mengenai berbagai bidang kehidupan.\n",
+
+      "Dengan beban melanjutkan legasi yang telah dibangun selama hampir dua dekade, komunitas kami memiliki misi untuk mencetak lulusan-lulusan universitas dengan kemampuan tambah sebagai pemikir dan komunikator ulung. Kami pun memiliki visi untuk komunitas MUN terkemuka di Asia Tenggara, yang siap menyaingi sumber daya manusia kami dengan negara-negara layaknya Singapura dan Filipina."
+    ],
+    "unggulan": [
+      "Pengiriman Delegasi Nasional dan Internasional: Model United Nation (MUN) adalah sebuah kompetisi mengenai beberapa masalah di seluruh dunia dalam bentuk simulasi konferensi PBB yang di mana mahasiswa menjadi pemain utama, menjadi delegasi.",
+      "Jogja International Model United Nation (JOINMUN): Selain mengikuti MUN pada institusi dalam negeri dan luar negeri, UGM MUN Community juga turut berkontribusi untuk mempromosikan Model United Nation dengan membuat acara MUN sendiri, yakni Jogja International Model United Nations (JOINMUN). JOINMUN telah menjadi salah satu konferensi MUN internasional paling bergengsi di Indonesia dengan ratusan delegasi dari sekitar 10 negara di dunia.",
+      "Pelatihan: Dalam pelatihan rutin yang kami adakan, kami memanggil narasumber untuk mengisi sesi webinar yang kemudian akan dilanjutkan dengan kegiatan interaktif dengan para peserta seperti misal simulasi ini. Pelatihan diadakan minimal 1 (satu) kali dalam tiap bulannya."
+    ],
+    "prestasi": [
+      "Makassar MUN 2023",
+      "NTU MUN 2023",
+      "APSC SEEAM 2023",
+      "Indonesia MUN 2023",
+      "Impactional MUN 2023",
+      "Singapore MUN 2023",
+      "Change Social Mindset MUN 2023",
+      "President International MUN 2023",
+      "Udayana Bali MUN 2023",
+      "Jakarta MUN 2023",
+      "Airlangga MUN 2023",
+      "Padjajaran International MUN 2023",
+      "Soedirman MUN 2023",
+      "Semarang International MUN 2023",
+      "Makassar MUN 2024",
+      "Singapore MUN 2024",
+      "ITB MUN 2024",
+      "Bandung MUN 2024",
+      "Indonesia MUN 2024",
+      "President International MUN 2024",
+      "Veteran MUN 2024",
+      "SGAS MUN 2024"
+    ],
+    "programs": [
+      {
+        "name": "Pengiriman Delegasi",
+        "description": "COMMUN berkomitmen untuk mewujudkan perdamaian dunia dengan visinya demi meningkatkan keunggulan akademik dan mempromosikan diplomasi Indonesia melalui MUN sebagai pengalaman inklusif bagi para pemuda Indonesia. Oleh sebab itu, COMMUN merealisasikannya dalam bentuk nyata melalui partisipasi aktif dalam pengiriman delegasi ke berbagai kompetisi MUN baik di tingkat nasional hingga internasional."
+      },
+      {
+        "name": "Pelatihan",
+        "description": "Rutinitas dalam pelatihan MUN diperlukan demi meningkatkan kualitas dari anggota komunitas. Tidak hanya itu, pelatihan dapat membantu anggota baru UGM MUN Community yang tidak mempunyai pengalaman Model United Nation (MUN) untuk suatu gambaran bagaimana proses Model United Nation (MUN) berlangsung. Salah satu contohnya ialah Speech Training, dimana anggota UGM MUN Community diajarkan cara berpidato yang baik dan benar."
+      },
+      {
+        "name": "Simulasi MUN",
+        "description": "COMMUN setiap tahun mengadakan simulasi terbuka konferensi MUN. Sesi ini bertujuan untuk memperkenalkan prosedur MUN kepada pemula dan memberi kesempatan bagi peserta berpengalaman untuk mengasah keterampilan mereka. Melalui simulasi terbuka ini, COMMUN bertujuan untuk meningkatkan keterampilan peserta seperti berbicara di depan umum, debat, dan negosiasi, serta memberikan peluang jaringan dengan delegasi lain untuk mendiskusikan isu-isu dunia saat ini."
+      },
+      {
+        "name": "Jogja International Model United Nations",
+        "description": "Konferensi MUN internasional yang diselenggarakan oleh UGM MUN dengan ratusan delegasi dari sekitar 10 negara di dunia."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Executive",
+        "short": "Execs"
+      },
+      {
+        "name": "Academics",
+        "short": "Acads"
+      },
+      {
+        "name": "Internals",
+        "short": "Internals"
+      },
+      {
+        "name": "Externals",
+        "short": "Externals"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1RmQFFeGknebGlopap1_j52JL-VrXfn-F"
+      },
+      {
+        "alt": "2",
+        "url": "1U6N3esyMc4_wRUNoUSyu9PEw2o40XXav"
+      },
+      {
+        "alt": "3",
+        "url": "1szwy-aGTJG6nG9U13WNDb_wnnuOobEwE"
+      },
+      {
+        "alt": "4",
+        "url": "1_Wjxv6P7Oafz5R0O4guncWQdRkL4Rc1i"
+      },
+      {
+        "alt": "5",
+        "url": "1w1Is1AAUsVX2TojsxAkqSMq_696U8PW1"
+      },
+      {
+        "alt": "6",
+        "url": "1vyHNASOGOnU-lWWEZ8TJ9JRwYu7CIGDe"
+      },
+      {
+        "alt": "7",
+        "url": "/1NZgQCp6XeLpObMrzfXDTEw8AVzImo77O"
+      },
+      {
+        "alt": "8",
+        "url": "1wJlZMQUNB85B_3lYrQVHiacrfe3EzS1v"
+      },
+      {
+        "alt": "9",
+        "url": "1BOQb3eevh5Uw82lQn_TK-8VcUOd26TgK"
+      },
+      {
+        "alt": "10",
+        "url": "1u9Ui_6R8dREZ-5uDl6QBhwkM-QvbJXB_"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15812.624082385371!2d110.3777826!3d-7.7732752!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59acfe25f0d7%3A0x4e05f7e4cb0c7ee2!2sGedung%20F11%20Kreativitas%20UGM!5e0!3m2!1sen!2sid!4v1724142799079!5m2!1sen!2sid",
+      "detail": "Bulaksumur F11, Caturtunggal, Depok Sub-District, Sagan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/ugm.mun/"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:"
+      },
+      {
+        "type": "website",
+        "url": "https://www.joinmun2024.com/"
+      },
+      {
+        "type": "tiktok",
+        "url": ""
+      },
+      {
+        "type": "linkedin",
+        "url": "https://id.linkedin.com/company/ugmmun"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Reactics Chem-E-Car UGM",
+    "alias": "Reactics Chem-E-Car UGM",
+    "category": null,
+    "video": "1hFtNBiHvEJDF2FJppU4Eyr3Kcg8XX4KT",
+    "logo": "",
+    "description": "Reactics Chem-E-Car UGM merupakan salah satu tim yang didukung oleh Direktorat Kemahasiswaan Universitas Gadjah Mada. Reactics Chem-E-Car UGM dibentuk untuk mengikuti kompetisi nasional dan internasional. Kami berfokus untuk menciptakan prototype mobil dengan reaksi kimia sebagai alat penggeraknya. Pada periode ini, Reactics Chem-E-Car UGM terdiri dari dua mobil, yaitu Reactics Pressurized Gas Team dan Reactics Voltaic Team.",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Reactalks",
+        "description": "Membuat video edukasi di media sosial dengan alumni atau anggota tim"
+      },
+      {
+        "name": "Pengadaan barang",
+        "description": "Penyediaan sarana dan prasarana untuk mendukung inovasi Chem-E-Car"
+      },
+      {
+        "name": "Apresiasi alumni dan member tim",
+        "description": "Memberi apresiasi terhadap pencapaian anggota saat ini dan alumni anggota tim, baik di dalam organisasi maupun secara eksternal."
+      },
+      {
+        "name": "4. Collaborative sharing",
+        "description": "Test drive mobil rutin merupakan program yang dilakukan untuk menguji dan mengevaluasi performa mobil yang dibuat oleh tim teknis. Tes drive ini dilakukan secara berkala meliputi uji reaksi kimia, uji elektronik, dan mekanik."
+      },
+      {
+        "name": "Pengadaan merBchandise",
+        "description": "Pengadaan dan penjualan merchandise dengan desain Reactics, seperti kaos,  jas lab, stiker, totebag, dll."
+      },
+      {
+        "name": "Social media grand design",
+        "description": "Program dari divisi desain dan media branding untuk membuat grand design untuk media sosial Reactics, terutama Instagram."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Administrasi",
+        "short": "Administrasi"
+      },
+      {
+        "name": "Public Relation  ",
+        "short": "PR"
+      },
+      {
+        "name": "Logistic and Accomodation ",
+        "short": "LoCo"
+      },
+      {
+        "name": "Design and Media Branding  ",
+        "short": "DesMed"
+      },
+      {
+        "name": "Fundraising and Sponsorship ",
+        "short": "FR"
+      },
+      {
+        "name": "Tim Teknis",
+        "short": "Tim Teknis"
+      },
+      {
+        "name": "Tim Managerial",
+        "short": "Tim Managerial"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1KUZREotPmVqu7Km40MVuRwwoNh_cp8n4"
+      },
+      {
+        "alt": "2",
+        "url": "18xVKxsxGdNkiMWff8Sme7fAkP9gqRZWU"
+      },
+      {
+        "alt": "3",
+        "url": "18T6yX1XIC1n8hEC9iMIogWbLVnG8Z3iS"
+      },
+      {
+        "alt": "4",
+        "url": "19r_-S7x9UdmP7_6DDUy_baKQg59gBnyZ"
+      },
+      {
+        "alt": "5",
+        "url": "1w-mH5EsP10pYg2ZCZZo0a4I67qd4gPVH"
+      },
+      {
+        "alt": "6",
+        "url": ""
+      },
+      {
+        "alt": "7",
+        "url": ""
+      },
+      {
+        "alt": "8",
+        "url": ""
+      },
+      {
+        "alt": "9",
+        "url": ""
+      },
+      {
+        "alt": "10",
+        "url": ""
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.233442998006!2d110.37209064894296!3d-7.765050572343189!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a58526e3de5b5%3A0x7ad6e6e5567bd4be!2sJl.%20Teknika%20Utara%2C%20Kocoran%2C%20Caturtunggal%2C%20Kec.%20Depok%2C%20Kabupaten%20Sleman%2C%20Daerah%20Istimewa%20Yogyakarta!5e0!3m2!1sid!2sid!4v1723468671933!5m2!1sid!2sid",
+      "detail": "Jl. Teknika Utara, Barek, Kampus UGM, Kocoran, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "instagram.com/reactics.ugm"
+      },
+      {
+        "type": "youtube",
+        "url": "www.youtube.com/@reacticschemecarugm"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:chemecar@ugm.ac.id"
+      },
+      {
+        "type": "website",
+        "url": "https://chemecar.ugm.ac.id/"
+      },
+      {
+        "type": "tiktok",
+        "url": "tiktok.com/@reactics.ugm"
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Tanoto Scholars Association Universitas Gadjah Mada",
+    "alias": "Tanoto Scholars Association Universitas Gadjah Mada",
+    "category": null,
+    "video": "1yYhZOndp_gsXPdbHiPWmORb-0niTxAAh",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/tanoto scholars association.png",
+    "description": "Tanoto Scholars Association UGM atau biasa dikenal TSA UGM dibentuk pada tanggal 25 mei 2013. Sebelum didirikannya TSA UGM ini para scholars dari UGM yang menerima manfaat teladan scholarship mengadakan rapat untuk membentuk sebuah asosiasi yang saat ini bernama TSA UGM. Pada saat pembentukan asosiasi ini anggotanya berjumlahkan 8 orang dan terus berkembang sampai saat ini. TSA UGM adalah pelopor utama pembentukan asosiasi penerima beasiswa teladan dari tiap perguruan tinggi mitra Tanoto Foundation, sehingga pada Tanoto Scholars Gathering tahun 2013 diresmikannya Tanoto Scholars Association untuk semua perguruan tinggi mitra yang kemudian semua perguruan tinggi mitra Tanoto Foundation memiliki Tanoto Scholars Association.",
+    "history": "",
+    "unggulan": [
+      "Tanoto Scholars Association (TSA): Sebuah wadah untuk Tanoto Scholars berinteraksi sebagai keluarga baru. Ada di 10 mitra PTN",
+      "Pay it Forward: Kegiatan yang dilakukan oleh TSA untuk memberikan dampak positif pada masyarakat di sekitar mereka tinggal",
+      "Tanoto Student Research Award (TSRA): Kompetisi penelitian di mitra PTN terpilih dan terbuka untuk setiap mahasiswa di perguruan mitra tersebut",
+      "Tanoto Scholars Gathering (TSG): Kegiatan yang mempertemukan seluruh TSA dari 9 mitra PTN",
+      "Internship: Kesempatan bagi para Tanoto Scholars untuk mendapatkan pengalaman di dunia profesional baik melalui program magang",
+      "Sponsorship: Kesempatan untuk mendapatkan dukungan ketika mengikuti perlombaan di tingkat nasional maupun internasional",
+      "Global Experiences Program: Kesempatan untuk membangun jejaring internasional melalui program summer course"
+    ],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "TSA Hangout",
+        "description": "Program kerja internal untuk membentuk solidaritas."
+      },
+      {
+        "name": "TSAsk",
+        "description": "Program kerja yang bersifat layanan untuk konsultasi atau tanya tanya terkait beasiswa teladan."
+      },
+      {
+        "name": "Pay It Forward",
+        "description": "Projek sosial kemasyarakatan yang diadakan tahunan oleh TSA UGM dan program kerja yang wajib dalam penerapan SDG's kepada masyarakat."
+      },
+      {
+        "name": "Social Project",
+        "description": "Program kerja dari Divisi Project yang bertujuan untuk memberikan dampak positif pada masyarakat atau lingkungan."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Creative Media ",
+        "short": "CM"
+      },
+      {
+        "name": "External & Networking ",
+        "short": "ExNet"
+      },
+      {
+        "name": "Human Capital ",
+        "short": "HC"
+      },
+      {
+        "name": "SocMed & Publication ",
+        "short": "Sosmed"
+      },
+      {
+        "name": "Unity Initiative ",
+        "short": "UI"
+      },
+      {
+        "name": "Project",
+        "short": "Project"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1g5K8uteEDOmvyZGaDaG9qNBLB1Ne6yGV"
+      },
+      {
+        "alt": "2",
+        "url": "1P1QnW8p_J2IbKeE8_XA21KU2TpADlBiW"
+      },
+      {
+        "alt": "3",
+        "url": "1ySwDwTyUEAYwgX8MyJzuSqZAiGWbNcUv"
+      },
+      {
+        "alt": "4",
+        "url": "1HA7wG1te3KiNiZur5Bs_JhrP0qYt7c7H"
+      },
+      {
+        "alt": "5",
+        "url": "1HInTFpiRl-AOSbxxOG8-l8R3O8jG2Y2-"
+      },
+      {
+        "alt": "6",
+        "url": ""
+      },
+      {
+        "alt": "7",
+        "url": ""
+      },
+      {
+        "alt": "8",
+        "url": ""
+      },
+      {
+        "alt": "9",
+        "url": ""
+      },
+      {
+        "alt": "10",
+        "url": ""
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.230526108194!2d110.3697638113625!3d-7.765360592221546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59080f6cb3ff%3A0x188d2377933c00eb!2sSmart%20Green%20Learning%20Center%20(SGLC)%20UGM!5e0!3m2!1sid!2sid!4v1723468714406!5m2!1sid!2sid",
+      "detail": "Gedung SGLC FT UGM lt 4  69MC+VW5 Universitas Gadjah Mada, Jl. Grafika, Sendowo, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/tsa_ugm/"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/@tsaugm3478"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/tsa_ugm"
+      },
+      {
+        "type": "email",
+        "url": "mailto:"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": ""
+      },
+      {
+        "type": "linkedin",
+        "url": "https://id.linkedin.com/company/tanoto-scholars-association-gadjah-mada-university"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gadjah Mada Marine and Naval Technology Advanced Research Activity",
+    "alias": "Gamantaray",
+    "category": null,
+    "video": "1aDtce2R0_2WI7J4Ri2MaWQuCb43LuyDZ",
+    "logo": "",
+    "description": "Gadjah Mada Marine and Naval Technology Advanced Research Activity atau yang dikenal dengan Gamantaray merupakan wadah bagi mahasiswa UGM untuk berkarya dalam penelitian dan pengembangan di sektor pelayaran. Tim Gamantaray UGM sendiri memiliki lima subtim. Pertama jayamahhe yang merupakan kapal kategori Fuel Engine Remote Control (FERC). Kedua ada kapal Safinah-One yaitu kapal Autonomous surface submarine vehicle (ASSV). Ketiga ada Kapal GAMANAVE yaitu kapal Electric Remote Control (ERC). keempat ada AUV atau Autonomous Underwater Vehicle. Terakhir ada ROV yaitu salah satu jenis robot bawah air. Kapal-kapal ini nantinya akan ditujukan untuk berpartisipasi dalam kompetisi nasional dan internasional.",
+    "history": "Gadjah Mada Marine and Naval Technology Advanced Reset Activity atau dikenal dengan Gamantary UGM merupakan tim di bawah naungan direktorat kemahasiswaan Universitas Gadjah Mada. Tim ini berfokus pada riset perkapalan dan kemaritiman di Indonesia maupun di dunia. Pada tahun 2012 Gamantaray dibentuk dengan nama tim Robobot UGM yang memiliki tujuan awal untuk kegiatan PKM. Namun kemudian pada tahun 2017, berganti nama menjadi tim Gamantaray UGM.",
+    "unggulan": [""],
+    "prestasi": [
+      "Juara1Kategori ERC, KKCTBN 2019",
+      "Tim Favorit Kategori ASV, KKCTBN 2019",
+      "Juara Harapan I Kategori FERC, KKCTBN 2021",
+      "Juara Harapan II Kategori ERC, KKCTBN 2021",
+      "Juara Harapan II Kategori ASSD, KKCTBN 2022",
+      "Juara 3 Pada Diponogoro Ship and Race Competition 2023",
+      "Juara 2 Race Kategori Mahasiswa, SAMPAN ITS 2023",
+      "Juara 1 Kategori Fun Race FERC, KKCTBN 2023"
+    ],
+    "programs": [
+      {
+        "name": "Kontes Kapal Indonesia (KKI)",
+        "description": "GAMANTARAY UGM berpartisipasi dalam Kontes Kapal Cepat Tak Berawak Nasional (KKCTBN), yang juga dikenal sebagai Kontes Kapal Cepat Indonesia (KKI) setiap tahunnya. Partisipasi ini menunjukkan keikutsertaan kami dalam kompetisi nasional yang fokus pada pengembangan teknologi kapal cepat tak berawak pada cabang kompetisi FERC, ERC, ASSV, dll."
+      },
+      {
+        "name": "SAMPAN",
+        "description": "GAMANTARAY UGM pertama kali berpartisipasi dalam kompetisi SAMPAN (Strategic Amphibious Naval Project Annual Event) pada tahun 2015. Kompetisi SAMPAN adalah kompetisi nasional yang diadakan oleh ITS."
+      },
+      {
+        "name": "ROBOBOAT",
+        "description": "GAMANTARAY UGM berpartisipasi dalam RoboBoat 2022, sebuah kompetisi internasional yang berfokus pada pengembangan kapal otomatis. Pada ajang ini, mereka mengembangkan dan mengoperasikan kapal tak berawak yang mampu menyelesaikan berbagai misi maritim secara mandiri, termasuk navigasi dan penghindaran rintangan."
+      },
+      {
+        "name": "TEKNOFEST",
+        "description": "TEKNOFEST adalah festival aerospace dan teknologi pertama dan satu satunya di Turki, diselenggarakan dengan kerjasama banyak organisasi yang memainkan peran kritis dalam pengembangan teknologi nasional di Turki."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Mekanis",
+        "short": "Mekanis"
+      },
+      {
+        "name": "Elektronis",
+        "short": "Elektronis"
+      },
+      {
+        "name": "Programer",
+        "short": "Programer"
+      },
+      {
+        "name": "Managerial",
+        "short": "Managerial"
+      },
+      {
+        "name": "Admin & Finance",
+        "short": "Admin & Finance"
+      },
+      {
+        "name": "Sponsorship & Public Relation",
+        "short": "Sponsorship & Public Relation"
+      },
+      {
+        "name": "Creative Media",
+        "short": "Creative Media"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "18FcXMt4Wh15tpOXQfCfNS8raYAnt9rpP"
+      },
+      {
+        "alt": "2",
+        "url": "1JskX1x2P-RAKMzBscSEJTD6xUXY1oOrV"
+      },
+      {
+        "alt": "3",
+        "url": "19YldaN_Qnmi6PWe4-I5aD7tTsd2Pcven"
+      },
+      {
+        "alt": "4",
+        "url": "1Xi8tklHjtU5DkJGZEgxPqzrcEOx1gdiJ"
+      },
+      {
+        "alt": "5",
+        "url": "1SF-volj9WWA4OwFt-b0i8fl59jghrZC-"
+      },
+      {
+        "alt": "6",
+        "url": "1zzCMpolPKzLnzs_YYXRJpD0Wc_Jn-B_b"
+      },
+      {
+        "alt": "7",
+        "url": "1Gc4xZ_mPKYOOm-cpS50V-xdAdDj3V028"
+      },
+      {
+        "alt": "8",
+        "url": "1cu5XSAaHwM9NpAI1sRS1nBqTxrjn84lJ"
+      },
+      {
+        "alt": "9",
+        "url": "11f4ITL_ZPnQ_VumRJBFswFd6zX3tgcvj"
+      },
+      {
+        "alt": "10",
+        "url": "1L3EymdKBKS5Vn3J3VD16C52M5el7jfwr"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.226350317427!2d110.36861851136244!3d-7.765804392221142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a584e14329ebb%3A0xe9a3f290ba6f2ee9!2sDepartemen%20Teknik%20Mesin%20dan%20Industri!5e0!3m2!1sid!2sid!4v1723468742198!5m2!1sid!2sid",
+      "detail": "Departemen Teknik Mesin dan Industri, Fakultas Teknik Universitas Gadjah Mada, Jl Grafika no.2, Bulaksumur, Yogyakarta"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/gamantaray.ugm"
+      },
+      {
+        "type": "youtube",
+        "url": "www.youtube.com/@gamantaray9921"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:gamantaray@ugm.ac.id"
+      },
+      {
+        "type": "website",
+        "url": "https://gamantaray.ugm.ac.id/"
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@gamantarayugm"
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "UGM Buddy Club",
+    "alias": "UGM Buddy Club",
+    "category": null,
+    "video": "1Exd4tBbQdhnaxQtGd378vSCANMsw1zps",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/buddy club.png",
+    "description": "UGM Buddy Club adalah organisasi yang berperan dalam membantu mahasiswa internasional menyesuaikan diri dengan kehidupan studi di Universitas Gadjah Mada (UGM). Organisasi ini berada di bawah naungan Office of International Affairs UGM (OIA UGM). UGM Buddy Club memberikan berbagai bentuk bantuan, baik secara administratif, akademik, maupun non-formal kepada mahasiswa internasional. Misi utama UGM Buddy Club adalah menciptakan komunitas inklusif dan dinamis di mana mahasiswa lokal dan internasional dapat bersatu, saling menghargai keberagaman budaya, serta memiliki perspektif global",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Buddy Pairing",
+        "description": "Program yang ditujukan untuk memasangkan mahasiswa lokal dengan mahasiswa Internasional dengan tujuan untuk membantu mahasiswa internasional dalam beradaptasi dengan lingkungan UGM, Yogyakarta dan sekitarnya."
+      },
+      {
+        "name": "International Student Gathering (ISG)",
+        "description": "Program yang bertujuan untuk mempertemukan beragam kebudayaan yang dibawa oleh mahasiswa internasional dengan kebudayaan lokal indonesia."
+      },
+      {
+        "name": "Halloween",
+        "description": "Program yang ditujukan untuk memperingati hari Halloween yang kerapkali dirayakan pada tanggal 31 oktober dengan mengundang teman-teman internasional dan lokal untuk menggunakan kostum karakter tertentu."
+      },
+      {
+        "name": "International Coffee Day (ICD)",
+        "description": "Program yang ditujukan untuk mengenalkan kebudayaan kopi indonesia kepada mahasiswa internasional dan menjadi wadah dalam pengenalan kebudayaan kopi mancanegara lainnya dengan kebudayaan kopi asli indonesia."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Program Affairs",
+        "short": "PA"
+      },
+      {
+        "name": "Human Resources Development",
+        "short": "HRD"
+      },
+      {
+        "name": "External Relations",
+        "short": "ER"
+      },
+      {
+        "name": "Media Relations",
+        "short": "MR"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1VtJd94cIg83Un7IPbNObADb2S30R5MDc"
+      },
+      {
+        "alt": "2",
+        "url": "12ventvZOIgU8MeBW1ZQeIl4oce2HhznY"
+      },
+      {
+        "alt": "3",
+        "url": "1KMIsNNjlGqlb_cWu6vwS3Sni7gFNCjb_"
+      },
+      {
+        "alt": "4",
+        "url": "1XV7cwWR6BgJEoMMb5ix3QsWP3pnj8SBZ"
+      },
+      {
+        "alt": "5",
+        "url": "1EqAQQd3B4nBJUnZO9MJk1OWKDa0zybtI"
+      },
+      {
+        "alt": "6",
+        "url": "1nAGlFkBh8kDU0v8qD1AZJw93Q4fAUZIa"
+      },
+      {
+        "alt": "7",
+        "url": "1RW_3qh53bKNzStMB34bNFYk1M15d8mdj"
+      },
+      {
+        "alt": "8",
+        "url": "1s94VxLx7bdNJQScADTrG5y9v_s0c7LFT"
+      },
+      {
+        "alt": "9",
+        "url": "169sCfagyBrMHCceDRV2w-icSqe5tFL4W"
+      },
+      {
+        "alt": "10",
+        "url": "1UhZUjUp5S7fEIZaAVFAogobNX3x0tZ4B"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.148855683973!2d110.37788500503326!3d-7.774035895706055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b2d4729729%3A0xac4d7b5fcf34f8e4!2sUniversitas%20Gadjah%20Mada!5e0!3m2!1sid!2sid!4v1723468772408!5m2!1sid!2sid",
+      "detail": "Universitas Gadjah Mada, Bulaksumur F13,  Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281."
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/ugm.buddyclub"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:buddyclubugm@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@ugm.buddyclub"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/ugm-buddy-club/mycompany/"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Girl Up",
+    "alias": "Girl Up",
+    "category": null,
+    "video": "1LiS1QzELafTWeIZmF7chnQJxe4yZP-iP",
+    "unggulan": [""],
+    "prestasi": [""],
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/girl up.png",
+    "description": "Girl Up adalah inisiatif pengembangan kepemimpinan pemuda dengan fokus kesetaraan gender, pemberdayaan, dan keadilan perempuan, salah satunya adalah di Indonesia. Girl Up UGM telah ikut andil dalam menyuarakan pergerakan ini sejak tahun 2019 untuk mendorong lingkungan yang inklusif bagi seluruh Civitas Akademika Universitas Gadjah Mada. Seluruh kegiatan Girl Up UGM berlandaskan feminisme interseksional dan diawasi oleh United Nations Foundation melalui Girl Up Headquarters dan Regional (Asia Tenggara).\n\nAwalnya, pada tahun 2010, Girl Up didirikan oleh Yayasan Perserikatan Bangsa-Bangsa (United Nations Foundation) sebagai inisiatif pertama dari jenisnya yang didedikasikan untuk mendukung pendidikan, kesehatan, dan keselamatan remaja perempuan. Sejak itu, Girl Up telah berkembang menjadi gerakan global dan mengoperasikan jaringan global afiliasi regional melayani 195.000 perempuan muda di 152 negara.\n\nGirl Up bertujuan mengembangkan potensi setiap perempuan muda melalui program yang dirancang oleh mereka untuk meningkatkan kapasitas kepemimpinan. Melalui program-program tersebut, perempuan diajarkan bagaimana mengorganisir komunitas, menetapkan tujuan, dan berkomunikasi secara efektif. Kerangka kerja pengembangan kepemimpinan Girl Up terdiri dari tiga pilar utama:\n1. Memberikan pemahaman mendalam kepada perempuan tentang isu-isu kesetaraan gender, yang bertujuan untuk meningkatkan kesadaran dan mendorong keterlibatan aktif.\n2. Menghubungkan perempuan dengan komunitas yang terdiri dari sebaya, mentor, dan pakar, guna memperkuat rasa kebersamaan dan dukungan sosial.\n3. Melatih perempuan dalam keterampilan kepemimpinan untuk meningkatkan kepercayaan diri mereka, memotivasi sesama, dan mengorganisir kegiatan dalam komunitas.\nMasing-masing pilar mencerminkan bentuk advocacy, organizing for social change, storytelling, dan fundraising.",
+    "history": "",
+    "programs": [
+      {
+        "name": "Solidarity Project",
+        "description": "Solidarity Project adalah kegiatan fundraising oleh divisi Programs and Impacts dengan mengadakan serangkaian kegiatan yang keuntungan/profitnya digunakan untuk yayasan atau lembaga tertentu (setiap tahun berbeda)."
+      },
+      {
+        "name": "Penyediaan Pembalut Gratis di UGM",
+        "description": "Dalam upaya meningkatkan ketersediaan produk kebersihan menstruasi di Universitas Gadjah Mada, Girl Up UGM bekerja sama dengan beberapa organisasi lain untuk menyediakan pembalut gratis selama 6 bulan pada 2024."
+      },
+      {
+        "name": "GUZine",
+        "description": "GUZine adalah e-majalah yang diterbitkan oleh Girl Up UGM, hasil kolaborasi antara divisi Research and Advocacy dan Visual Design Units."
+      },
+      {
+        "name": "TownHall",
+        "description": "TownHall adalah pertemuan rutin seluruh anggota Girl Up UGM yang diadakan setiap 3 bulan sekali. Acara ini bertujuan untuk mengenal satu sama lain serta memberi updates pekerjaan divisi masing-masing."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "External Affairs",
+        "short": "EA"
+      },
+      {
+        "name": "Social Media Management",
+        "short": "SMM"
+      },
+      {
+        "name": "Finance",
+        "short": "Finance"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1FB4htq4uXhwzB-lhnTh2GOr8mEGGIiOk"
+      },
+      {
+        "alt": "2",
+        "url": "1tGRQS0dpB5Bko83JWu0ZtQXNeezpnTN8"
+      },
+      {
+        "alt": "3",
+        "url": "1ubY6_JBhlcMx7_Bt5RRgl0vb9vveG9iL"
+      },
+      {
+        "alt": "4",
+        "url": "1uH-hyaIhSAR9KvHsg7fo8PGf-3cG7tQB"
+      },
+      {
+        "alt": "5",
+        "url": "1oidoSyM_H_7CcTBrvAkHeT8Kt8zzhO7y"
+      },
+      {
+        "alt": "6",
+        "url": "1VPnhk0EmTQcXfdbEoO4RUma4pA-_BMz1"
+      },
+      {
+        "alt": "7",
+        "url": "1PQaMLbMaTGm9tio85bHSIyJ9uutgUWjr"
+      },
+      {
+        "alt": "8",
+        "url": ""
+      },
+      {
+        "alt": "9",
+        "url": ""
+      },
+      {
+        "alt": "10",
+        "url": ""
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.185894598392!2d110.37524571136257!3d-7.770102692216936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b2d4729729%3A0xac4d7b5fcf34f8e4!2sUniversitas%20Gadjah%20Mada!5e0!3m2!1sid!2sid!4v1723468803128!5m2!1sid!2sid",
+      "detail": "Gadjah Mada University, Kompleks, Jl. Sosio Yustisia Bulaksumur No.1, Karang Malang, Caturtunggal, Depok, Sleman Regency, Special Region of Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/girlup.ugm"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/@girlupugm3065"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/girlupugm"
+      },
+      {
+        "type": "email",
+        "url": "mailto:girlup.ugm@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": "linktr.ee/girlupugm"
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@girlup.ugm"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/girl-up-ugm-universitas-gadjah-mada/mycompany/"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": "https://medium.com/@girlup.ugm"
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/show/1UZYPfqj4z68XFJWiJLZvt?si=953dea4c0b0f497e"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "GadjahMada Golf Club",
+    "alias": "GadjahMada Golf Club",
+    "category": null,
+    "video": "1LPTpyzSeV0ACIDBl_l_Fxz6NBNwc0tZk",
+    "logo": "",
+    "description": "Dimulai dari berkumpulnya mahasiswa/I yang memiliki antusiasme tinggi terhadap olahraga ini, GadjahMada Golf Club lahir dibawah naungan Kagama Golf Club, dukungan yang tinggi dari para alumni serta melihat potensi yang ada dalam Mahasiswa/I GadjahMada dalam olahraga Golf menguatkan keinginan kami untuk selalu berkembang dan menorehkan berbagai bentuk prestasi",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "GOBAR (Golf Bareng)",
+        "description": "Golf Bareng adalah sebuah acara di mana anggota GGC bersama-sama turun ke lapangan golf untuk bermain. Acara ini bertujuan untuk mempererat hubungan antar anggota, meningkatkan keterampilan bermain golf, dan menikmati waktu bersama di lapangan."
+      },
+      {
+        "name": "Driving Bareng",
+        "description": "Driving Bareng adalah sebuah acara rutin yang diadakan oleh GGC di mana anggota klub berkumpul untuk driving golf bersama. Acara ini berlangsung setiap hari Sabtu pagi di HOSEL. Melalui acara ini, anggota GGC dapat berbagi tips, memperbaiki teknik pukulan, dan mempersiapkan diri untuk permainan di lapangan golf yang sebenarnya."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Eksternal",
+        "short": "Eksternal"
+      },
+      {
+        "name": "Internal",
+        "short": "Internal"
+      },
+      {
+        "name": "Acara",
+        "short": "Acara"
+      },
+      {
+        "name": "Media",
+        "short": "Media"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1DEt65mQHxsqa89cpE5yCr9NGfZeORavf"
+      },
+      {
+        "alt": "2",
+        "url": "19bWgtiacp_hW1PtbgwPUIEY4EhqpKkAX"
+      },
+      {
+        "alt": "3",
+        "url": "151Pjvl_DxJaCX33Wg861uzwrcCyaO7JZ"
+      },
+      {
+        "alt": "4",
+        "url": "1fWBDQCLf091mhNeLiWa55qHbrIihH5es"
+      },
+      {
+        "alt": "5",
+        "url": "1RI1--bnEMeWMceajCapXxn6x6wPsUqL5"
+      },
+      {
+        "alt": "6",
+        "url": "19Lsl-BXcB7eM-chreuc5L1uMe6l76Ho3"
+      },
+      {
+        "alt": "7",
+        "url": "1wHKkhkNjS_Ye0ANZTN7SRr_Fw21Od3Yu"
+      },
+      {
+        "alt": "8",
+        "url": "1LSoJTsiwPf6w5Yxx69HqziOYOXQq_qxs"
+      },
+      {
+        "alt": "9",
+        "url": "1uaCeChKd4g3X7mS9y1EAYBj22E2AMahR"
+      },
+      {
+        "alt": "10",
+        "url": "16ypIUo3IBJ4jtGvWpIpJWVAEUGsVwLqn"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "",
+      "detail": ""
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/ugmgolf/"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:ggc.ugmgolf@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": ""
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "International Association of Students in Agricultural and Related Sciences",
+    "alias": "IAAS LC UGM",
+    "category": null,
+    "video": "1pakLOsItN_VQyvW67Z6uVojauFH0PVgg",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/iaas lc.jpg",
+    "description": "IAAS or International Association of Students in Agricultural and Related Sciences is a youth organization engaged in agriculture and related sciences. IAAS has a concrete purpose to contribute and invites the younger generation to love agriculture more and play an active role improve the living standards of rural communities by sharing knowledge and experience. IAAS LC UGM has finally found Bojong Village as the brand new village concept project. Bojong is located in Pleret, Wonolelo, D.I. Yogyakarta which has a lot of potentials starting from agricultural, entrepreneurship, and the incredible view.",
+    "history": "IAAS was founded in 1957, started with 8 member countries and KU Leuven, Belgium as the head-quarter. For the last 58 years, IAAS has grown into a big organization with 50 member countries and more than 10.000 active members. IAAS Indonesia was founded by Mr. Arif Satria on December 29th 1992. IAAS Indonesia has 11 local committees with more than 1200 active members. They are Local Committee Institute of Pertanian Bogor, Brawijaya University, Padjajaran University, Diponegoro University, Gadjah Mada University, Sebelas Maret University, Mataram University, Lambung Mangkurat University, Muhammadiyah Yogyakarta University, Jember University, and Udayana University.",
+    "unggulan": [
+      "Expronas",
+      "Village Concept Project",
+      "English For Fun",
+      "Youth Agricareture",
+      "Social Empowerment"
+    ],
+    "prestasi": ["Equal-merit Award in IAAS Global Project Competition 2023"],
+    "programs": [
+      {
+        "name": "Expronas",
+        "description": "Expronas. is a national internship program in the field of agrocomplex that consists of three programs: Archimedes, Ceres, & Libertas. Expronas is open to all Indonesian students."
+      },
+      {
+        "name": "English for Fun",
+        "description": "English for Fun. is a community service program that teaches English to children aged 10-12 years (grades 4-6 SD) in Yogyakarta and its surrounding areas that still need English guidance."
+      },
+      {
+        "name": "Excite",
+        "description": "Excite. is a work program that focuses on developing foreign language skills for IAAS LC UGM members and surrounding community that formed as a forum to increase English speaking skills."
+      },
+      {
+        "name": "Youth Agricareture",
+        "description": "Youth Agricareture. is a program from IAAS Indonesia by holding trainings, webinars, or other social activities for VCP residents as well as developing \"Youth Ambassador\" from VCP youths."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Human Resource and Development",
+        "short": "HRD"
+      },
+      {
+        "name": "Exchange",
+        "short": "Exchange"
+      },
+      {
+        "name": "Project",
+        "short": "Project"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1zdkxWg8bkDWLDL5LtLP2Ci9Ak3UJiJT0"
+      },
+      {
+        "alt": "2",
+        "url": "1SMVxLQ5EBj1UUZ_rQl2sPoYQsSEPfh5R"
+      },
+      {
+        "alt": "3",
+        "url": "1K-VAVpphE_ku1xLv82ZJOC3O38NGI9My"
+      },
+      {
+        "alt": "4",
+        "url": "18Shqem2cO5kx8WbFLCOZO3DjcvnNlyPn"
+      },
+      {
+        "alt": "5",
+        "url": "1dwzGTkOKp0YgVvk951qxLnvOp-pC7HFg"
+      },
+      {
+        "alt": "6",
+        "url": "1FIp3-k03xqfpUih6orWdIt-aLTkN73BG"
+      },
+      {
+        "alt": "7",
+        "url": "1lwhxBfPTtXlnsHTv-M2-p1jPV-am07Ks"
+      },
+      {
+        "alt": "8",
+        "url": "1wiEkeQe28vckLLX5nT6h3kYncWEoqDe3"
+      },
+      {
+        "alt": "9",
+        "url": "1STSsiMTpgXvRZleV9sSU-xlPIbm2Pgzx"
+      },
+      {
+        "alt": "10",
+        "url": "1Y2oEw2Xqu6i-MpIYA6C70UP9fPoHMNNj"
+      }
+    ],
+    "recruitment": {
+      "oprec": "https://drive.google.com/drive/folders/1VGbf2l-9bvUqHq9-4pJiEAE4K5mWs9gu",
+      "guidebook": "https://bit.ly/BookletOprecIAAS2024"
+    },
+    "location": {
+      "url": "",
+      "detail": ""
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/iaaslcugm"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/@iaaslcugm3001"
+      },
+      {
+        "type": "line",
+        "url": "https://line.me/R/ti/p/%40hch0050p"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/iaaslcugm"
+      },
+      {
+        "type": "email",
+        "url": "mailto:komun.iaas@ugm.ac.id"
+      },
+      {
+        "type": "website",
+        "url": "ugm.iaas.or.id"
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@iaaslcugm"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/iaas-lc-ugm/"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": "https://open.spotify.com/show/0pTiDVf8xID9zrXwDF0Mtq?si=5d76f2f77fe64a95"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Gadjah Mada Building & Bridge",
+    "alias": "Gadjah Mada Building & Bridge",
+    "category": null,
+    "video": "1hFtNBiHvEJDF2FJppU4Eyr3Kcg8XX4KT",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/gmbb.png",
+    "description": "Gadjah Mada Building & Bridge (GMBB) adalah komunitas yang berada dibawah naungan Sub Direktorat Kreativitas Mahasiswa UGM yang diresmikan pada tanggal 7 Januari 2016 sebagai organisasi otonom...",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Pelatihan Basic",
+        "description": "Pelatihan Basic merupakan program kerja yang diperuntukan dan wajib diikuti oleh anggota yang baru bergabung, di pelatihan basic akan diajarkan dan diberikan pelatihan untuk hal-hal dasar sebagai bekal dalam perlombaan."
+      },
+      {
+        "name": "Pelatihan Jembatan",
+        "description": "Pelatihan Jembatan merupakan program pelatihan bagi anggota yang masuk ke dalam Divisi Jembatan atau yang tertarik untuk mendalami keahliannya khususnya dalam Jembatan dengan fokus utama yaitu persiapan menuju lomba KJI."
+      },
+      {
+        "name": "Pelatihan Gedung",
+        "description": "Pelatihan Gedung merupakan program pelatihan bagi anggota yang masuk ke dalam Divisi Gedung atau yang tertarik untuk mendalami keahliannya khususnya dalam Gedung dengan fokus utama yaitu persiapan menuju lomba KBGI."
+      },
+      {
+        "name": "Malam Keakraban",
+        "description": "Malam Keakraban bertujuan untuk meningkatkan rasa solidaritas komunitas GMBB melalui menghabiskan waktu bersama dalam semalem dengan memainkan games, sharing, hingga sesi awarding atau apresiasi."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Jembatan",
+        "short": "Jembatan"
+      },
+      {
+        "name": "Gedung",
+        "short": "Gedung"
+      },
+      {
+        "name": "Keuangan",
+        "short": "Keuangan"
+      },
+      {
+        "name": "Sumber Daya Manusia",
+        "short": "SDM"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1CN8W5TjtnED5SB6B6IOnbrYY2IfVvB0L"
+      },
+      {
+        "alt": "2",
+        "url": "1nBb7bcPfL53XJs0njrQlMlQJRJV6L9Mn"
+      },
+      {
+        "alt": "3",
+        "url": "1RXhMKbox-lSXf1NwCzWg78AD5_jIFpGP"
+      },
+      {
+        "alt": "4",
+        "url": "1MRCErXI8RSj-1myw738dDqOFGgDwie4l"
+      },
+      {
+        "alt": "5",
+        "url": "1WPC9_z1WMb34YcxhoswRZzsSQ3vXEryb"
+      },
+      {
+        "alt": "6",
+        "url": "1KwtF97w41viDcD9D1w199QRlqdDavV8t"
+      },
+      {
+        "alt": "7",
+        "url": "1v5WCpIJwLG01N0QvGbUn2Serw_IwidAE"
+      },
+      {
+        "alt": "8",
+        "url": "1t-2oIZGPpd_1l9DjuuDafVzmo9RQkIg2"
+      },
+      {
+        "alt": "9",
+        "url": "1l_QVr-v4eHGBWTy203B4-DQpaLrl-MQW"
+      },
+      {
+        "alt": "10",
+        "url": "1giFV13LCo_0wNSV1AZA0avsdFQG3FBdg"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "",
+      "detail": ""
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/gmbb_ugm/"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/channel/UCvKZzZ3IQ8nmIJK_zr-MhGA"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:gmbb@ugm.ac.id"
+      },
+      {
+        "type": "website",
+        "url": "http://gmbbugm.com"
+      },
+      {
+        "type": "tiktok",
+        "url": ""
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/gmbbugm/"
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "DEM UGM",
+    "alias": "DEM UGM",
+    "category": null,
+    "video": "",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/dem.jpg",
+    "description": "DEM UGM adalah organisasi kemahasiswaan yang memiliki sinergitas dan keberlanjutan untuk menghadirkan kebermanfaatan arah gerak serta pemahaman, pengkajian, dan pengimplementasian dalam bidang energi. DEM UGM memiliki misi: Menjalankan organisasi dengan aspek keberlanjutan, melakukan sinergitas antar keditjenan, mengedepankan inklusivitas, menjalankan program-program dengan nilai pengabdian, pengkajian, implementasi, dan keilmuan dalam bidang energi, serta memfasilitasi lingkungan kerja yang suportif.",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "DEM Goes to school",
+        "description": "Program kerja untuk memberikan edukasi kepada para siswa tentang pentingnya penghematan energi."
+      },
+      {
+        "name": "Riset Mibagas",
+        "description": "Program kerja untuk melakukan riset mengenai minyak bumi dan gas."
+      },
+      {
+        "name": "Forum alumni",
+        "description": "Kegiatan bersama para alumni DEM untuk memberikan motivasi dan inovasi kepada para anggota DEM."
+      },
+      {
+        "name": "Beach voluntrip",
+        "description": "Kegiatan edukasi, bersih pantai, penanaman pohon mangrove."
+      },
+      {
+        "name": "Sekolah Energi",
+        "description": "Kegiatan edukasi motivasi dan inovasi kepada sekolah-sekolah kunjungan energi."
+      },
+      {
+        "name": "Desa Energi",
+        "description": "Desa Binaan DEM."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Pengembangan Sumber Daya Manusia ",
+        "short": "PSDM"
+      },
+      {
+        "name": "Komunikasi Strategis dan Kreatif",
+        "short": "Komstrat"
+      },
+      {
+        "name": "National Energi Festival ",
+        "short": "NEF"
+      },
+      {
+        "name": "Riset Energi Nuklir",
+        "short": "Riset Energi Nuklir"
+      },
+      {
+        "name": "Riset Minyak Batubara dan Gas ",
+        "short": "Mibagas"
+      },
+      {
+        "name": "Riset Energi Baru dan Terbarukan ",
+        "short": "EBTKE"
+      },
+      {
+        "name": "Riset Kebijakan Politik Energi ",
+        "short": "KPE"
+      },
+      {
+        "name": "Riset KetenagaListrikan dan Teknologi Energi ",
+        "short": "KLTE"
+      },
+      {
+        "name": "Pemberdaya Desa Energi ",
+        "short": "PDE"
+      },
+      {
+        "name": "Kemasyarakatan",
+        "short": "Kemasyarakatan"
+      },
+      {
+        "name": "Aksi Sosial Masyarakat ",
+        "short": "Aksosmas"
+      },
+      {
+        "name": "Inovasi dan Ekonomi Kreatif ",
+        "short": "IEK"
+      },
+      {
+        "name": "Inovasi Kreatif dan Ekonomi Energi ",
+        "short": "IKEE"
+      },
+      {
+        "name": "Energy Preneur",
+        "short": "Energy Preneur"
+      },
+      {
+        "name": "Hubungan Masyarakat ",
+        "short": "Humas"
+      },
+      {
+        "name": "Media Kreatif ",
+        "short": "Medkre"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1KVaV87oPkOz66xGGQCF2mz7QNUDpcjhm"
+      },
+      {
+        "alt": "2",
+        "url": "1K6xwErD0M-ivdG6bpW_BkNDWlZuHFrB6"
+      },
+      {
+        "alt": "3",
+        "url": "1LBSkYEn-ASVjG3LU5yezDp-P95AYSfQI"
+      },
+      {
+        "alt": "4",
+        "url": "1KN61VmmfYkXfPRHFQeOo7YrqR_n8vmvz"
+      },
+      {
+        "alt": "5",
+        "url": "1L7xDodSvDXvF5V2tAGPY6AICqZBx9pUE"
+      },
+      {
+        "alt": "6",
+        "url": "1L2ruPvKfyhxWXqEFZ-rlGlHny3bCHbUX"
+      },
+      {
+        "alt": "7",
+        "url": "1L2608HfjmFvEXJA1jZjmqldfCEYX9D81"
+      },
+      {
+        "alt": "8",
+        "url": "1K7X8M8cw-aauvjMTuEg7uUgQQ0MhQBOt"
+      },
+      {
+        "alt": "9",
+        "url": "1L57Pq198HvlNlxCw62vlXM12YYxDljM5"
+      },
+      {
+        "alt": "10",
+        "url": "1L0grsV4FdSjMpYYxwHEfy5h_zZt9Z9DP"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15812.688538878485!2d110.3750306!3d-7.7715641!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a584a4a6d29c5%3A0xd6de5433d89a5e1d!2sPusat%20Studi%20Energi%20UGM!5e0!3m2!1sen!2sid!4v1723468871811!5m2!1sen!2sid",
+      "detail": "Blk. K, Jl. Bhinneka Tunggal Ika, Sendowo, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281."
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/ugmdem"
+      },
+      {
+        "type": "youtube",
+        "url": "www.youtube.com/@dewanenergimahasiswaugm1494"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/DEM_UGM"
+      },
+      {
+        "type": "email",
+        "url": "energi.ugm@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@dem.ugm"
+      },
+      {
+        "type": "linkedin",
+        "url": "www.linkedin.com/in/dewan-energi-mahasiswa-ugm-a244a1b0"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Rampoe UGM",
+    "alias": "Rampoe UGM",
+    "category": null,
+    "video": "1Ryu4H_msQwGDQHxq0iTXiy1rUwzsnC7B",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/rampoe.png",
+    "description": "Rampoe merupakan sebuah organisasi yang termasuk ke dalam Badan Semi Otonom (BSO) yang berada di bawah naungan Fakultas Ilmu Budaya (FIB) UGM. Fokusnya adalah menjadi wadah kreatif dan inovatif untuk mempelajari seni tradisional Aceh, memperkenalkan kebudayaan Aceh di tingkat regional, nasional, dan internasional, memberikan ruang belajar keorganisasian bagi anggota, membangun persahabatan dan persaudaraan antarmahasiswa, serta memperkuat persatuan dan kesatuan nasional melalui nilai-nilai budaya.",
+    "history": "Didirikan oleh beberapa mahasiswa Sastra Arab pada 28 Desember 2009 sebagai Tim Saman Ikatan Mahasiswa Sastra Asia Barat (IMABA), yang kemudian berganti nama menjadi BSO RAMPOE UGM pada 28 Desember 2011 dan Badan Semi Otonom pada 1 Januari 2016. ",
+    "unggulan": ["Diplomasi Budaya"],
+    "prestasi": [
+      "Bojonegoro Thengul International Folklore Festival (B-TIFF) 2023",
+      "Juara 2 dalam perlombaan Ratoh Jaroe Dance Competition 2023",
+      "Gold Medal & The Best Folk Dances Category at the 10th Asia Arts Festival 2023 Singapore",
+      "Cafad & Serenity International Folk Dance & Music Festival Turki 2023",
+      "Gold Medal & The Best Folk Dances Category, 10th Asia Arts Festival, Singapore 2023",
+      "Second Place in Ratoh Jaroe Dance Competition 2023",
+      "Participation in Cafad & Serenity International Folk Dance & Music Festival, Turkey 2023",
+      "Participation in Bojonegoro Thengul International Folklore Festival (B-TIFF) 2023",
+      "FIRST WINNER AND GOLD DIPLOMA, International Online Dance Competition, Folklore Festival Association 2020",
+      "THE BEST DYNAMICS ON STAGE, International Online Dance Competition, Folklore Festival Association 2020",
+      "DELEGATION OF INDONESIA: HONORED GUEST, Daegu Colorful Festival, Daegu, South Korea 2019",
+      "GOLD MEDAL (FIRST WINNER), Wonju Dynamic Dancing Carnival, Wonju, South Korea 2018",
+      "DELEGATION OF THE REPUBLIC OF INDONESIA, Taiwan Lantern Festival, Chiayi, Taiwan 2018",
+      "FIRST WINNER - GRAND PRIX, Autumn Fairytale Competition, Prague, Czech Republic 2016",
+      "BEST PERFORMANCE (Piece of Jury), Competition, Prague, Czech Republic 2016"
+    ],
+    "programs": [
+      {
+        "name": "Workshop Nasional Rampoe bersama KEMENDIKBUD",
+        "description": "Merupakan workshop nasional yang diselenggarakan bersama Kementerian Pendidikan dan Kebudayaan (KEMENDIKBUD) pada bulan April tahun 2024. Workshop ini menghadirkan narasumber Bapak Yusri Saleh sebagai pencipta tari Ratoeh Jaroe, dan Ibu Ratih Puspitasari sebagai juri Ratoeh Jaroe nasional."
+      },
+      {
+        "name": "Latihan Rutin",
+        "description": "Program kerja wajib bagi seluruh anggota tim Rampoe UGM adalah latihan rutin yang diselenggarakan 2 kali seminggu. Mencakup pengembangan keterampilan serta menggabungkan pelatihan fisik kekompakan tim, dan pemaknaan budaya."
+      },
+      {
+        "name": "Rampoe Berbagi",
+        "description": "Merupakan aksi kemanusiaan yang dilakukan Rampoe pada bulan ramadhan, yaitu dengan membagikan takjil di beberapa titik yang telah ditentukan. Kegiatan ini dilakukan atas wujud kepedulian terhadap sesama manusia dan sebagai wadah untuk menebar kebaikan."
+      },
+      {
+        "name": "Saleum",
+        "description": "Merupakan malam keakraban yang dimana program ini bertujuan untuk saling mengenal antar anggota rampoe. Beberapa kegiatan saleum yang tak kalah asik diantaranya games, menonton film dan senam bersama."
+      },
+      {
+        "name": "Meusapat",
+        "description": "Merupakan nama lain dari first gathering generasi baru Rampoe UGM. Adanya kegiatan ini bertujuan untuk menyambut generasi baru yang telah lolos seleksi. Selain itu Meusapat juga sebagai sarana untuk memperkenalkan Rampoe dengan mengundang generasi terdahulu, menjadi wadah untuk generasi baru agar saling mengenal dengan adanya rangkaian kegiatan games, tukar kado, dan penampilan peserta oprec terbaik."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Ketua, Wakil ketua, Sekretaris, Bendahara",
+        "short": "Pengurus Inti"
+      },
+      {
+        "name": "Divisi Latihan",
+        "short": "Divisi Latihan"
+      },
+      {
+        "name": "Divisi Pembangunan Sumber Daya Manusia",
+        "short": "PSDM"
+      },
+      {
+        "name": "Divisi Hubungan Masyarakat",
+        "short": "Humas"
+      },
+      {
+        "name": "Divisi Manajer",
+        "short": "Divisi Manajer"
+      },
+      {
+        "name": "Divisi Publikasi, Dekorasi, dan Dokumentasi",
+        "short": "PDD"
+      },
+      {
+        "name": "Divisi Investaris",
+        "short": "Divisi Investaris"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1TJQs3MU2Y0MtYOo5GlQUHaifPpDZbpez"
+      },
+      {
+        "alt": "2",
+        "url": "18IZNKqnk3m_4Nq6PbFO-QkEMzfFJyLTX"
+      },
+      {
+        "alt": "3",
+        "url": "1lQZ5XptICNxXEqHNMeucHnr13PIRX8Xs"
+      },
+      {
+        "alt": "4",
+        "url": "1_stCaZ3-gqZbyjYgXYZacaFjUkfSSZrN"
+      },
+      {
+        "alt": "5",
+        "url": "1nnvrzKQMQTfrExuDZdGmFwiD6CWLp6Xn"
+      },
+      {
+        "alt": "6",
+        "url": "130Lf_MLxaAo8pi6V9luOm3smMOQZUnzA"
+      },
+      {
+        "alt": "7",
+        "url": "10ilYxWkdGbKFXOBn1NyIi7GwQgwNOJY3"
+      },
+      {
+        "alt": "8",
+        "url": "15d3FoE5iiffptJUCdS25YxLZu1N6LNmg"
+      },
+      {
+        "alt": "9",
+        "url": "1yJXQ1hPzhgyMr4fIVjwrZBrNfkpvnLz8"
+      },
+      {
+        "alt": "10",
+        "url": "1vpPXLdZVDxWV9_TU_-kvAOM3uOEyWUAU"
+      }
+    ],
+    "recruitment": {
+      "oprec": "https://bit.ly/PendaftaranRAMPOEGEN16",
+      "guidebook": "https://drive.google.com/drive/folders/1WLRvZhWGDOJuZpOFH1I88k-UvTH3NUAV?usp=sharing"
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3953.172715707708!2d110.3771417!3d-7.7715024!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b4d0378d5b%3A0xde2cbf859d8015e8!2sGedung%20Poerbatjaraka%20Fakultas%20Ilmu%20Budaya%20UGM!5e0!3m2!1sen!2sid!4v1724144533331!5m2!1sen!2sid",
+      "detail": "Jl. Sosio Humaniora No.1, Sagan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/rampoeugm"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/@RampoeUGM"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/RampoeUGM"
+      },
+      {
+        "type": "email",
+        "url": "mailto:rampoe.fib@ugm.ac.id"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@rampoeugm"
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/rampoeugm"
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Arjuna EV UGM",
+    "alias": "Arjuna EV UGM",
+    "category": null,
+    "video": "1WBtoL-e1SsoRmK7wHynSYhfNe3VoDVVh",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/arjuna.png",
+    "description": "Arjuna EV UGM merupakan tim formula listrik pertama dari Indonesia yang berdiri pada tahun 2012. Kami merupakan tim EV pertama dari Indonesia yang berkompetisi di ajang Formula Student yang diselenggarakan oleh SAE (Society of Automotive Engineering) di Jepang, Australia, dan India. Kompetisi FSAE merupakan ajang mobil balap terbesar di dunia untuk mahasiswa. Tim yang berpartisipasi dalam kompetisi harus mendesain & memproduksi mobil formula serta menganalisis biaya & membuat rencana bisnis sesuai peraturan yang ditetapkan oleh SAE International. Dalam 12 tahun berkarya, Tim Arjuna telah memenangkan 25 kategori kompetisi internasional dan 12 kategori kompetisi nasional.",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Riset",
+        "description": "Tim Arjuna EV UGM senantiasa giat melakukan riset dan pengembangan kendaraan listrik secara komprehensif mulai dari komponen elektrikal, seperti battery management system (BMS), energy storage, safety system, hingga chassis, drivetrain, maupun aerodinamis."
+      },
+      {
+        "name": "Manufaktur",
+        "description": "Tim Arjuna EV UGM secara kontinu melakukan manufaktur kendaraan berbasis listrik. Saat ini, Tim Arjuna EV UGM sedang memanufaktur mobil AF-05."
+      },
+      {
+        "name": "Konten Edukasi",
+        "description": "Tim Arjuna EV UGM aktif dalam membagikan konten edukatif terkait komponen dan perkembangan kendaraan listrik. Dengan komitmen yang kuat, Tim Arjuna EV UGM berupaya menjadi pionir dalam berbagi wawasan berharga."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Composite and Aerodynamics",
+        "short": "CAD"
+      },
+      {
+        "name": "Chassis",
+        "short": "CD"
+      },
+      {
+        "name": "Electronics and Enclosure",
+        "short": "EED"
+      },
+      {
+        "name": "Drivetrain ",
+        "short": "DD"
+      },
+      {
+        "name": "Vehicle Dynamics",
+        "short": "VDD"
+      },
+      {
+        "name": "Electric Powertrain",
+        "short": "EP"
+      },
+      {
+        "name": "Electronic and Control",
+        "short": "EC"
+      },
+      {
+        "name": "Administration and Finance",
+        "short": "AFD"
+      },
+      {
+        "name": "Logistic, Accommodation, and Transportation",
+        "short": "LATD"
+      },
+      {
+        "name": "Multimedia and Marketing ",
+        "short": "MMD"
+      },
+      {
+        "name": "Static Event",
+        "short": "SED"
+      },
+      {
+        "name": "Sponsorship and Public Relation ",
+        "short": "SPRD"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1-QFiSSoeexTrbkRH5ClUX693e-UHZ3HP"
+      },
+      {
+        "alt": "2",
+        "url": ""
+      },
+      {
+        "alt": "3",
+        "url": ""
+      },
+      {
+        "alt": "4",
+        "url": ""
+      },
+      {
+        "alt": "5",
+        "url": ""
+      },
+      {
+        "alt": "6",
+        "url": ""
+      },
+      {
+        "alt": "7",
+        "url": ""
+      },
+      {
+        "alt": "8",
+        "url": ""
+      },
+      {
+        "alt": "9",
+        "url": ""
+      },
+      {
+        "alt": "10",
+        "url": ""
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3953.252844486083!2d110.38485671136255!3d-7.766794592216268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b5b50d8a51%3A0x80f9e47f1a264d4f!2sUniversitas%20Gadjah%20Mada!5e0!3m2!1sen!2sid!4v1723469125300!5m2!1sen!2sid",
+      "detail": "Gadjah Mada University, Jl. Sosio Humaniora No. 1, Bulaksumur, Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/arjunaevugm"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/@ArjunaEVUGM"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/ArjunaEVUGM"
+      },
+      {
+        "type": "email",
+        "url": "mailto:arjunaevugm@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@arjunaevugm"
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/ArjunaEVUGM"
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kucing UGM",
+    "alias": "Kucing UGM",
+    "category": null,
+    "video": "14dEFPLFE0rOQy7t6xEMXBnOEHlo5xZ8Z",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/kucing ugm.png",
+    "description": "Komunitas Kucing UGM merupakan komunitas yang didirikan pada 2019 oleh beberapa orang dengan Damar Paramananda sebagai Ketua Umum pertama. Komunitas Kucing UGM berawal dari 2013 oleh beberapa mahasiswa pecinta kucing yang rutin street feeding bersama pada kucing-kucing liar di sekitar kampus . Sekelompok mahasiswa ini kemudian bertemu dengan kelompok mahasiswa lain yang juga SF bersama dengan teman2nya sendiri. lama-kelamaan terjaring hubungan antar mahasiswa pecinta kucing di UGM yang semakin lama semakin besar kemudian pada 2017 akhirnya dibuatlah Instagram kucingugm dan karena yang bergabung dalam lingkaran komunitas semakin besar maka pada tahun 2019 dibentuk struktur komunitas dengan ketua umum,bendahara, sekretaris dan struktur-struktur lainnya. Komunitas kucing UGM bergerak dalam bidang menyejahterakan kucing-kucing liar di UGM baik dari segi pemberian pakan, mengobati dan merawat kucing yang membutuhkan pertolongan, serta menceah overpopulasi kucing denga sterilisasi dengan tujuan menjaga kesehatan kucing liar di UGM serta mencegah terjadinya ledakan populasi yang akan menganggu keseimbangan lingkungan dan kenyamanan warga kampus.",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Fieldwork",
+        "description": "Acara Street Feeding sebulan sekali, Pemberian Stok pakan pada masing-masing fakultas setiap bulan, Peletakan bank pakan di wilayah-wilayah kampus non fakultas, seperti Maskam, perpustaakaa, DSDI, perumahan dosen dan lain-lain."
+      },
+      {
+        "name": "Rescue",
+        "description": "Pemberian Fasilitas berupa pet cargo dan kandang pada masing-masing fakultas, Kerjasam dengan dokter hewan untuk konten pertolongan pertama pada kucing-kucing, Penyediaan obat-obatan untuk pengobatan ringan pada kucing, Pembuatan DOcs untuk share informasi terkait penyakit-penyakit pada kucing liar dan cara merawatnya secara mandiri."
+      },
+      {
+        "name": "Sterilisasi dan Pengendalian Populasi",
+        "description": "Pendataan kucing-kucing pada tiap fakultas, Kegiatan sterilisasi kucing sebulan sekali dan kucingugm telah menyeteril total 10 Kucing dari awal kepengurusan sampai hari ini, Pembuatan konten steril, serta share ilmu atau edukasi tentang syarat-syarat kucing disteril."
+      },
+      {
+        "name": "Jejaring",
+        "description": "Menerima kerjasama yang berkaitan dengan Kucing UGM baik dalam sterilisasi, streetfeeding dan lainnya, Penguhubung mitra eksternal dengan Komunitas, Penjualan merchandise dan gantungan kunci."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Fieldwork",
+        "short": "Fieldwork"
+      },
+      {
+        "name": "Jejaring",
+        "short": "Jejaring"
+      },
+      {
+        "name": "Rescue",
+        "short": "Rescue"
+      },
+      {
+        "name": "Steril dan Pengendalian Populasi",
+        "short": "Steril dan Pengendalian Populasi"
+      },
+      {
+        "name": "Penelitian dan Pengembangan",
+        "short": "Penelitian dan Pengembangan"
+      },
+      {
+        "name": "Media Informasi",
+        "short": "Media Informasi"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1AvHJbNH7QbL70CdrR7QPpLvKJdiuHmOY"
+      },
+      {
+        "alt": "2",
+        "url": "1AtQTRo3DH6mWYFa6hzcltvpBgoOvHhFK"
+      },
+      {
+        "alt": "3",
+        "url": ""
+      },
+      {
+        "alt": "4",
+        "url": ""
+      },
+      {
+        "alt": "5",
+        "url": ""
+      },
+      {
+        "alt": "6",
+        "url": ""
+      },
+      {
+        "alt": "7",
+        "url": ""
+      },
+      {
+        "alt": "8",
+        "url": ""
+      },
+      {
+        "alt": "9",
+        "url": ""
+      },
+      {
+        "alt": "10",
+        "url": ""
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "",
+      "detail": ""
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/kucingugm"
+      },
+      {
+        "type": "youtube",
+        "url": "http://www.youtube.com/@kucingugm"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/kucingugm"
+      },
+      {
+        "type": "email",
+        "url": "mailto:kucingugm@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@kucingugm"
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Gadjahmada Airsoft Squad",
+    "alias": "Gadjahmada Airsoft Squad",
+    "category": null,
+    "video": "1A75lqhQC7puy7QUBqXWaP63_HYyq05Bp",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/airsoft squad.png",
+    "description": "Gadjahmada Airsoft Squad (GAS) merupakan organisasi berwujud klub/komunitas di bidang olahraga airsoft yang berdiri pada 8 Agustus 2007 di bawah naungan Persatuan Olahraga Airsoft Seluruh Indonesia (PORGASI) cabang Bantul DIY. Komunitas ini menjadi wadah dan sarana bagi penggemar olahraga airsoft yang menjunjung tinggi kekeluargaan dan solidaritas.",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Sunday Skirmiah (Sukir)",
+        "description": "Sukir adalah kegiatan bermain airsoft yang diadakan setiap hari Minggu. Lokasi tempat bermain berpindah-pindah."
+      },
+      {
+        "name": "Tuning Bersama",
+        "description": "Tuning Bersama adalah kelas belajar merawat unit airsoft bersama ahli servis. Anggota akan diajarkan cara merawat dan memperbaiki unit airsoft oleh ahli servis airsoft."
+      },
+      {
+        "name": "Joint Operation (JO)",
+        "description": "Joint Ops adalah acara bermain airsoft bersama klub lain dengan skenario game yang khusus dan menarik."
+      },
+      {
+        "name": "Malam Keakraban (Makrab)",
+        "description": "Makrab adalah acara pelantikan anggota yang diadakan setiap tahunnya."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Acara",
+        "short": "Acara"
+      },
+      {
+        "name": "Media",
+        "short": "Media"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1oATWchCKqRlgO4NvCxly0A-1GzONCUHy"
+      },
+      {
+        "alt": "2",
+        "url": "1omn5e1pSVYbf10nONN7Q7spDmhHSC-qw"
+      },
+      {
+        "alt": "3",
+        "url": "1onrXM5YEcx5NU6w4LSl9F1DwcyaSMj4P"
+      },
+      {
+        "alt": "4",
+        "url": "1q7Pfxg_tbCXwliJPCG-H9FoRm5VLG5_x"
+      },
+      {
+        "alt": "5",
+        "url": "1olMqaheBBahiNxIasw2ldWHVsgVz6fCP"
+      },
+      {
+        "alt": "6",
+        "url": "1qEpxyQSH7Mukyq8B5BpMX2Xwud6Qnf8D"
+      },
+      {
+        "alt": "7",
+        "url": "1opTW7XVXP6tB3iueAS9gqcOqPrpZBgki"
+      },
+      {
+        "alt": "8",
+        "url": "1oNkyFxSZE7EuptnL8ztyxVMd-wkTVNMZ"
+      },
+      {
+        "alt": "9",
+        "url": "1o_ZMrunMdE5K8kLIXPwZk4xndgfm4bMT"
+      },
+      {
+        "alt": "10",
+        "url": "/1ol7bAnE5YQ1g3KYPTqmFggxnWmrnOJOf"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3952.816961992533!2d110.35044741136294!3d-7.809192192178761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a57e53abca665%3A0x21b1d9e59d294fd9!2zQW5na3JpbmdhbiBHZXJsaSBCdWsgTWFo6qeL6qaE6qaB6qaP6qa_6qa26qaU6qak6qeA6qaS6qD!5e0!3m2!1sid!2sid!4v1693964690988!5m2!1sid!2sid",
+      "detail": "Jl. Suryowijayan MJ1/433, Gedongkiwo, Mantrijeron, Daerah Istimewa Yogyakarta 55142"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/gadjahmada_airsoft_squad"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/channel/UCxI3vGXI4uI5HybJoH47Qug"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://twitter.com/gadjahmada_as"
+      },
+      {
+        "type": "email",
+        "url": "mailto:gadjahmadagames@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@gadjahmada_airsoft_squad"
+      },
+      {
+        "type": "linkedin",
+        "url": ""
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "GAMABUNTA",
+    "alias": "GAMABUNTA",
+    "category": null,
+    "video": "1squJN1a8yqcomgTCIuBhwsq-jvVxOejW",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/gamabunta.png",
+    "description": "GAMABUNTA merupakan komunitas yang bergerak sebagai wadah bagi mahasiswa yang memiliki minat dalam kebudayaan Jepang yang mencakup dan tidak terbatas pada kebudayaan, bahasa dan sastra, serta pop-culture Jepang dengan berlandaskan pada Tri Dharma Perguruan Tinggi.",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Sekben",
+        "description": "Memantau dan menarik kas dari pengurus Gamabunta."
+      },
+      {
+        "name": "Coffee session",
+        "description": "Kegiatan bonding antar anggota Gamabunta secara offline."
+      },
+      {
+        "name": "Post Info Event dan Medpart",
+        "description": "Membuat postingan info event dan kerjasama media partner di event jejepangan."
+      },
+      {
+        "name": "Booth Event",
+        "description": "Mempersiapkan serta mengelola booth Gamabunta pada event atau kegiatan yang diikuti."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Ekonomi Kreatif ",
+        "short": "Ekraf"
+      },
+      {
+        "name": "Humas dan Media  ",
+        "short": "Humed"
+      },
+      {
+        "name": "Pengembangan Sumber Daya Manusia ",
+        "short": "PSDM"
+      },
+      {
+        "name": "Cosplay",
+        "short": "Cosplay"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1HUC-QPfEhFrDndxjMO47P7W5GdjySucA"
+      },
+      {
+        "alt": "2",
+        "url": "1HSGK5XJEg6jQr0XM1i7VIMP3yNGrvofY"
+      },
+      {
+        "alt": "3",
+        "url": "1GC2vwNO2Z2uff9AUlwvwiSHOwALu0yXM"
+      },
+      {
+        "alt": "4",
+        "url": "1GBTYPXKARCeqFlrgn3a91NBz2ca3v8dw"
+      },
+      {
+        "alt": "5",
+        "url": "1GlHOuuWDxtldOzBsNTBLlZ_76k_U1FHs"
+      },
+      {
+        "alt": "6",
+        "url": "1I9C6W24DJuai3QTV8x9IlRfzyFbJ2EVK"
+      },
+      {
+        "alt": "7",
+        "url": "1I6scLNdJ5ltIWdilnr9wyDe1uCP16rTS"
+      },
+      {
+        "alt": "8",
+        "url": "1GkWlerakVqzQwZcjHpu1chFFJdLkV2Mw"
+      },
+      {
+        "alt": "9",
+        "url": "1HnX6Hbd_CpXx_H4G81qJeWKWF_YXxDhY"
+      },
+      {
+        "alt": "10",
+        "url": "1GHxBK2V3gwqs9fOQDUC8m9zF08eNLhCG"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15812.743578100448!2d110.35877158715817!3d-7.770102700000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a59b2d4729729%3A0xac4d7b5fcf34f8e4!2sUniversitas%20Gadjah%20Mada!5e0!3m2!1sid!2sid!4v1723469053089!5m2!1sid!2sid",
+      "detail": "Bulaksumur, Caturtunggal, Kec. Depok, Kabupaten Sleman Daerah Istimewa Yogyakarta"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/gamabuntaugm?igsh=aXR4czdpZ3RwaHlk"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://twitter.com/gamabunta_ugm?t=8N0OCfopgfeEG9vyJoWwyg&s=09"
+      },
+      {
+        "type": "email",
+        "url": "mailto:info.gamabunta@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": ""
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/gadjah-mada-bunka-taika-gamabunta"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/gadjah.mada.bunka.taika?mibextid=ZbWKwL"
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Bimasakti Racing Team UGM",
+    "alias": "Bimasakti Racing Team UGM",
+    "category": null,
+    "video": "1BmDtoNTyDsYUwkU6o1Gh2GrH1_xlbebT",
+    "logo": "",
+    "description": "Bimasakti Racing Team merupakan tim Formula Student, yang tidak hanya terlibat dalam riset, tetapi juga dalam manufaktur mobil formula sebagaimana halnya tim mobil Formula 1, dengan mengikuti regulasi yang ditetapkan oleh Society of Automotive Engineering atau SAE. Tujuan utama Bimasakti Racing Team adalah berkompetisi di ajang Formula SAE International dan Associazione Nazionale Filiera Industria Automobilistica.",
+    "history": "Bimasakti Racing Team terbentuk dari mimpi-mimpi dan kerja keras anak bangsa yang berdedikasi untuk mengharumkan nama Indonesia di kancah internasional. Berdiri pada 26 November 2010, tidak hanya sekadar menjadi tim mobil Formula Student dari Universitas Gadjah Mada. Mereka adalah pionir, tim Formula Student pertama di Indonesia dan juga menjadi tim Indonesia pertama yang berhasil untuk meraih juara di Eropa.",
+    "unggulan": [
+      "Formula Student Competition",
+      "Nobar Bersama Bimasakti (Nobims)",
+      "Bimasakti Talks (Bimatalks)",
+      "Participating Automotive Fair"
+    ],
+    "prestasi": [
+      "2x 1st Place Business Plan Presentation (FS Netherland 2022 & Formula Student Italy 2023)",
+      "Top 3 Business Plan Presentation (FS Japan 2018)",
+      "Top 5 Dynamics Event (FS Italy 2023)",
+      "7th Place Overall Rank (FS Netherland 2022)",
+      "8th Place Overall Rank (FS Italy 2023)",
+      "9th Place Overall Rank (FS Spain 2024)",
+      "Best FSS Spirit (FS Spain 2024)",
+      "Golden Fighter Award (FS Netherland 2022)",
+      "JAMA Chairman Award (FS Japan 2019)"
+    ],
+    "programs": [
+      {
+        "name": "Formula SAE",
+        "description": "Setiap tahun Tim Bimasakti mengikuti perlombaan Formula Student di berbagai negara, terkhusus di Benua Eropa."
+      },
+      {
+        "name": "Grand Launching",
+        "description": "Setiap tahun Tim Bimasakti mengadakan acara peluncuran mobil baru yang dilaksanakan menjelang keberangkatan lomba."
+      },
+      {
+        "name": "Mengikuti Pameran Otomotif",
+        "description": "Tim Bimasakti ikut serta dalam memamerkan karya tim di beberapa pameran otomotif yang bergengsi."
+      },
+      {
+        "name": "Bimatalks",
+        "description": "Memberikan wadah bagi anggota tim untuk mengasah soft skill hingga hard skill melalui acara mentoring."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Powertrain",
+        "short": "Powertrain"
+      },
+      {
+        "name": "Drivetrain",
+        "short": "Drivetrain"
+      },
+      {
+        "name": "Vehicle Dynamics",
+        "short": "Vehicle Dynamics"
+      },
+      {
+        "name": "Electrical",
+        "short": "Electrical"
+      },
+      {
+        "name": "Aerodynamics",
+        "short": "Aerodynamics"
+      },
+      {
+        "name": "Frame and Miscellaneous",
+        "short": "Frame and Miscellaneous"
+      },
+      {
+        "name": "Research and Development",
+        "short": "Research and Development"
+      },
+      {
+        "name": "Sponsorship and Funding",
+        "short": "Sponsorship and Funding"
+      },
+      {
+        "name": "Finance and Logistic",
+        "short": "Finance and Logistic"
+      },
+      {
+        "name": "Public Relation and Member Development",
+        "short": "Public Relation and Member Development"
+      },
+      {
+        "name": "Design and Documentation",
+        "short": "Design and Documentation"
+      },
+      {
+        "name": "Document and Secretarial Works",
+        "short": "Document and Secretarial Works"
+      },
+      {
+        "name": "Business Plan Presentation",
+        "short": "Business Plan Presentation"
+      },
+      {
+        "name": "Cost and Manufacturing",
+        "short": "Cost and Manufacturing"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "185oYtQ4HbqbvqketaD8rsI8txO55R5NI"
+      },
+      {
+        "alt": "2",
+        "url": "1KYoiLtUjzbGF9zZEG_6tEAag7Mrjiz9p"
+      },
+      {
+        "alt": "3",
+        "url": "1tEfSy9vVUnpdwtmKJrK_Nca7nHNarjYy"
+      },
+      {
+        "alt": "4",
+        "url": "1s3HYnBpgPOZ67auLp6_OT_3RQWhlhmnY"
+      },
+      {
+        "alt": "5",
+        "url": "1T_NEnq80_5s7sy0AXMBZsAji_bL-QmbZ"
+      },
+      {
+        "alt": "6",
+        "url": "1elxhuJl2-hOTTyVEvOfqw3u9cPWVKkaT"
+      },
+      {
+        "alt": "7",
+        "url": "1v_Gbs9kETIMzf8CGByXtmsRiYMK2Q6wR"
+      },
+      {
+        "alt": "8",
+        "url": "1-exJJlXX5GuShvYfix_WwddoAcyieVdG"
+      },
+      {
+        "alt": "9",
+        "url": "1cb0Dm_Cu2JyfgCMej1cFmYjcd9a2jRWX"
+      },
+      {
+        "alt": "10",
+        "url": "1hZFT6jLICsh9GmK_ziCSZyVLEDfYatFW"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7906.469588166581!2d110.37299181559138!3d-7.764906968887994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a584e06f1ebf7%3A0xe4ad3fc475d7fbf8!2sFakultas%20Teknik%20Universitas%20Gadjah%20Mada!5e0!3m2!1sid!2sid!4v1723469094709!5m2!1sid!2sid",
+      "detail": "Universitas Gadjah Mada, Jl. Grafika Kampus No.2, Sendowo, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/bimasaktiugm"
+      },
+      {
+        "type": "youtube",
+        "url": "www.youtube.com/@bimasaktiracingteamugm"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/bimasakti_ugm"
+      },
+      {
+        "type": "email",
+        "url": "mailto:bimasaktijuara.fsaeteam@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@bimasaktiugm"
+      },
+      {
+        "type": "linkedin",
+        "url": "linkedin.com/company/bimasaktiugm"
+      },
+      {
+        "type": "facebook",
+        "url": "https://www.facebook.com/bimasaktiugm"
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Komunitas Raja Garuda UGM",
+    "alias": "Komunitas Raja Garuda UGM",
+    "category": null,
+    "video": "1AJRhyMEJO7q-UWLpBIKmbiahRhicXZUO",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/raja garuda.png",
+    "description": "Komunitas Raja Garuda UGM adalah komunitas di bawah Direktorat Kemahasiswaan UGM bidang Kesejahteraan Mahasiswa, yang aktif bergerak di bidang sosial dan edukasi NAPZA, Rokok, Judi, dan Pinjaman Online Ilegal di lingkungan kampus Universitas Gadjah Mada.",
+    "history": "Komunitas ini dulunya bernama Raja Bandar UGM, dibentuk pada 14 Oktober 2014 di Borobudur bersamaan dengan pelaksanaan Pendidikan dan Pelatihan Kader Anti NAPZA dan Rokok UGM, yang menjadi bentuk komitmen Universitas Gadjah Mada dalam pelaksanaan Pencegahan Pemberantasan Penyalahgunaan dan Peredaran Gelap Narkotika (P4GN). Akan tetapi, berdasarkan Keputusan Rektor Universitas Gadjah Mada Nomor 138/UN1.P3/KPT/HUKOR/2024, komunitas ini kini dikenal dengan nama Komunitas Gerakan Jauhi Penyalahgunaan NAPZA, Rokok, Judi, dan Pinjaman Online Ilegal (RAJA GARUDA) yang bergerak untuk meningkatkan kapabilitas sivitas akademika UGM dalam P4GN, adiksi rokok, dan pencegahan judi serta pinjol ilegal.",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Pemilihan Duta Anti NAPZA UGM",
+        "description": "Pemilihan Duta Anti NAPZA UGM merupakan kegiatan penyaringan mahasiswa yang bertujuan untuk membentuk kualitas kompetensi sivitas akademika UGM supaya dapat berperan melalui aksi nyata dalam upaya pencegahan, pemberantasan, penyalahgunaan, dan peredaran gelap narkotika hingga rokok di lingkungan UGM."
+      },
+      {
+        "name": "Raja Garuda Goes to School",
+        "description": "Raja Garuda Goes to School merupakan kegiatan yang diadakan oleh Divisi Kampanye dan Pencegahan dari Komunitas Raja Garuda Universitas Gadjah Mada bersama para Duta Anti NAPZA terpilih, dengan melakukan sosialisasi ke sekolah-sekolah di Yogyakarta."
+      },
+      {
+        "name": "Peringatan Hari Anti Narkotika Internasional (HANI)",
+        "description": "Kegiatan peringatan HANI ini merupakan kegiatan yang diadakan oleh Divisi Kampanye dan Pencegahan, diisi dengan jalan sehat, Talkshow bersama BNN Provinsi DI Yogyakarta, hingga games yang menarik dan juga pembagian Doorprize."
+      },
+      {
+        "name": "Garuda Festival",
+        "description": "Kegiatan ini merupakan salah satu upaya agar efektivitas pergerakan yang dilakukan oleh Raja Garuda berdampak positif dengan mengadakan perlombaan-perlombaan untuk tingkat mahasiswa umum dan siswa SMA se DI Yogyakarta."
+      },
+      {
+        "name": "Grand Launching Komunitas",
+        "description": "Merupakan kegiatan pengenalan kabinet kepengurusan baru dengan mengundang perwakilan UKM/Komunitas di UGM beserta satuan tugas anti NAPZA dari seluruh universitas di DI Yogyakarta."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Badan Semi Otonom",
+        "short": "BSO"
+      },
+      {
+        "name": "Departemen Pengembangan Sumberdaya Manusia",
+        "short": "PSDM"
+      },
+      {
+        "name": "Departemen Kajian Strategis",
+        "short": "Kastrat"
+      },
+      {
+        "name": "Departemen Hubungan Masyarakat",
+        "short": "Humas"
+      },
+      {
+        "name": "Departemen Kampanye dan Pencegahan",
+        "short": "KP"
+      },
+      {
+        "name": "Departemen Media dan Informasi",
+        "short": "Medinfo"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": ""
+      },
+      {
+        "alt": "2",
+        "url": ""
+      },
+      {
+        "alt": "3",
+        "url": ""
+      },
+      {
+        "alt": "4",
+        "url": ""
+      },
+      {
+        "alt": "5",
+        "url": ""
+      },
+      {
+        "alt": "6",
+        "url": ""
+      },
+      {
+        "alt": "7",
+        "url": ""
+      },
+      {
+        "alt": "8",
+        "url": ""
+      },
+      {
+        "alt": "9",
+        "url": ""
+      },
+      {
+        "alt": "10",
+        "url": ""
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "",
+      "detail": "Jl. Yacaranda 69GF+H86, Blimbing Sari, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://instagram.com/rajagarudaugm"
+      },
+      {
+        "type": "youtube",
+        "url": "https://youtube.com/@rajagarudatv"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:rajabandar.wg@ugm.ac.id"
+      },
+      {
+        "type": "website",
+        "url": "https://rajabandar.wg.ugm.ac.id"
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@raja_garuda_ugm"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/raja-bandar-ugm"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Society of Renewable Energy UGM",
+    "alias": "SRE UGM",
+    "category": null,
+    "video": "1_2VE920Am6cN69ijobafjj5IbGdPL-FF",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/sre.png",
+    "description": "Society of Renewable Energy (SRE) is a student organization engaged in the development of new and renewable energy sources. SRE firmly believes that the future of global energy will increasingly rely on new and renewable sources. As students, it is our duty to contribute to the world's achievement of one of the Sustainable Development Goals, namely Affordable, and Clean Energy (SDGs #7). SRE at Universitas Gadjah Mada (UGM) is one of the SRE chapters that serve as a platform for renewable energy education for all UGM students. The inception of SRE UGM stems from concerns about the renewable energy situation in Indonesia, coupled with a growing interest among UGM students in this field. The reserves of non-renewable energy resources are dwindling due to continuous exploitation, making them increasingly scarce and finite. If this continues, humanity must begin to explore renewable energy sources through mastered technological advancements. Technology can be universal, accessible, and learned by anyone. Technology is not static but highly dynamic and constantly evolving. Hence, it's regrettable if students lack a platform to learn and develop renewable energy technology, basic knowledge, and public policies.",
+    "history": "",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "Renewable Class",
+        "description": "Kelas yang membahas energi baru terbarukan dari berbagai aspek, dan khusus untuk anggota SRE UGM."
+      },
+      {
+        "name": "Article Publication",
+        "description": "Riset dan penulisan artikel ilmiah secara berkala melalui kanal publikasi SRE UGM."
+      },
+      {
+        "name": "Innovation Project",
+        "description": "Proyek yang berfokus pada penemuan dan pengembangan solusi yang revolusioner dengan mempertimbangkan berbagai aspek teknis, ekonomi, dan lingkungan dalam pengembangan teknologi inovatif."
+      },
+      {
+        "name": "Educational Content",
+        "description": "Konten yang bertujuan untuk mengedukasi mahasiswa, masyarakat sekitar, dan para pengikut akun sosial media SRE UGM."
+      },
+      {
+        "name": "SRE Outreach",
+        "description": "Kegiatan kunjungan perusahaan/organisasi/komunitas yang merupakan partner ataupun calon partner dari SRE UGM."
+      },
+      {
+        "name": "Workshop Interkatif",
+        "description": "Mengadakan workshop lanjutanyang lebih mendalam, dengan fokus pada aplikasi praktis dan solusi inovatif."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "Divisi Competency Development",
+        "short": "Divisi Competency Development"
+      },
+      {
+        "name": "Divisi Research & Innovation",
+        "short": "Divisi Research & Innovation"
+      },
+      {
+        "name": "Divisi Academics",
+        "short": "Divisi Academics"
+      },
+      {
+        "name": "Divisi Relations",
+        "short": "Divisi Relations"
+      },
+      {
+        "name": "Divisi Media & Branding",
+        "short": "Divisi Media & Branding"
+      },
+      {
+        "name": "Divisi Community Engagement",
+        "short": "Divisi Community Engagement"
+      },
+      {
+        "name": "Divisi Finance",
+        "short": "Divisi Finance"
+      },
+      {
+        "name": "Divisi Human Resources",
+        "short": "Divisi Human Resources"
+      },
+      {
+        "name": "Divisi Secretary",
+        "short": "Divisi Secretary"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1xlE7XXwuMy1tNhoZ8tPKOTVCxWLs-SbM"
+      },
+      {
+        "alt": "2",
+        "url": "125aX2WUE9CkhsXWLPtbu1ekDq7SqjYkd"
+      },
+      {
+        "alt": "3",
+        "url": "1nx7e1_mY-OIPYEnl6xSyATcIzdsVy5NZ"
+      },
+      {
+        "alt": "4",
+        "url": ""
+      },
+      {
+        "alt": "5",
+        "url": ""
+      },
+      {
+        "alt": "6",
+        "url": ""
+      },
+      {
+        "alt": "7",
+        "url": ""
+      },
+      {
+        "alt": "8",
+        "url": ""
+      },
+      {
+        "alt": "9",
+        "url": ""
+      },
+      {
+        "alt": "10",
+        "url": ""
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "",
+      "detail": ""
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/sre.ugm"
+      },
+      {
+        "type": "youtube",
+        "url": ""
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/sre.ugm"
+      },
+      {
+        "type": "email",
+        "url": "mailto:sreugm@sre.co.id"
+      },
+      {
+        "type": "website",
+        "url": ""
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/sreugm"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/sreugm"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Tim Yacaranda UGM",
+    "alias": "Yacaranda UGM",
+    "category": null,
+    "video": "1rPVAPlkDGlMz2ZRubrEsk3tJNWVuKQPZ",
+    "logo": "assets/profil-ukm-komunitas/logo-komunitas/yacaranda.png",
+    "description": "Tim Yacaranda UGM merupakan tim riset yang bergerak dibidang kendaraan listrik dan hemat energi kolaborasi antara mahasiswa Sekolah Vokasi, Fakultas Teknik, dan Fakultas MIPA Universitas Gadjah Mada. Tim Yacaranda UGM dibentuk dengan tujuan mewadahi kreativitas mahasiswa Universitas Gadjah Mada khususnya di bidang teknologi. Tim Yacaranda UGM terdiri dari enam divisi, di antaranya Divisi Body and Frame, Drive and Powertrain, Electrical, Engineering Design, Engine dan Managerial. Tim Yacaranda UGM berkomitmen untuk berkarya menyumbangkan gagasan pengembangan mobil listrik dan hemat energi sebagai alternatif pengganti mobil konvensional berbahan bakar minyak bumi.",
+    "history": "Tim Yacaranda Universitas Gadjah Mada didirikan pada awal tahun 2013 oleh mahasiswa Departemen Teknik Mesin Sekolah Vokasi UGM. Tim Yacaranda UGM berdiri di bawah naungan Direktorat Kemahasiswaan Universitas Gadjah Mada. Tim ini memiliki misi untuk memberikan solusi bagi masalah energi nasional dengan mengembangkan mobil hemat energi dan ramah lingkungan. Nama Yacaranda diambil dari lokasi sekretariat tim yang berada di jalan Yacaranda. Sedangkan logo Tim Yacaranda berupa pohon beringin yang berada di jalan Yacaranda dan memiliki makna tersendiri, dimana inovasi mobil listrik tidak sengaja muncul dari ide beberapa mahasiswa dan dosen yang sedang berlindung dan berdiskusi di bawah pohon beringin tersebut.",
+    "unggulan": [""],
+    "prestasi": [""],
+    "programs": [
+      {
+        "name": "PLN ICE",
+        "description": "PLN ICE merupakan rangkaian kompetisi tentang rancang bangun kendaraan listrik yang diadakan oleh PLN untuk mahasiswa di seluruh Indonesia. Rangkaian perlombaan pertama-tama lewat seleksi proposal, seleksi presentasi proposal dan pembuatan prototipe kendaraan listrik."
+      },
+      {
+        "name": "KMLI",
+        "description": "KMLI merupakan ajang kompetisi mobil listrik yang terdiri dari 2 kategori perlombaan, yaitu Kategori Lomba (Percepatan, Pengereman, Daya tanjak, dan Endurance) dan Kategori Konsep Desain (Inovasi, Desain Teknologi, Rancang Konstruksi, Business Plan). Tim Yacaranda sudah 2 kali menjadi juara umum KMLI. Target dan rencana tahun ini Yacaranda akan kembali mengikuti KMLI dan mendapatkan juara umum kembali."
+      },
+      {
+        "name": "KMHE",
+        "description": "KMHE adalah kegiatan yang memungkinkan mahasiswa untuk mengembangkan inovasi di bidang otomotif yang ramah lingkungan, yang pada gilirannya dapat membantu memitigasi dampak lingkungan dan mengurangi ketergantungan pada bahan bakar fosil."
+      }
+    ],
+    "divisions": [
+      {
+        "name": "General Manager",
+        "short": "General Manager"
+      },
+      {
+        "name": "Manager",
+        "short": "Manager"
+      },
+      {
+        "name": "Managerial Leader",
+        "short": "Managerial Leader"
+      },
+      {
+        "name": "Technical Leader",
+        "short": "Technical Leader"
+      },
+      {
+        "name": "Body and Frame",
+        "short": "Body and Frame"
+      },
+      {
+        "name": "Drive and Powertrain",
+        "short": "Drive and Powertrain"
+      },
+      {
+        "name": "Engineering Design",
+        "short": "Engineering Design"
+      },
+      {
+        "name": "Electrical",
+        "short": "Electrical"
+      },
+      {
+        "name": "Managerial",
+        "short": "Managerial"
+      }
+    ],
+    "gallery": [
+      {
+        "alt": "1",
+        "url": "1Vm74dED7e5k3ipA8uWraC8yBFJXuFFnc"
+      },
+      {
+        "alt": "2",
+        "url": "1CeIZOhktbQYKIgbHOMQFYDLsUMt8ywkM"
+      },
+      {
+        "alt": "3",
+        "url": "19XW2OaIAqTkBvGXXtcPvRHLsCrkIJSBd"
+      },
+      {
+        "alt": "4",
+        "url": "1ULeLNP2UQvQVf4u6c8sotcql6CXacwZK"
+      },
+      {
+        "alt": "5",
+        "url": "12Y-efjuVYr2aIsSIu54zTreiX648sr49"
+      },
+      {
+        "alt": "6",
+        "url": "1fwNre6rEYqGBq8hJq6GApi9lWYOIrUjY"
+      },
+      {
+        "alt": "7",
+        "url": "1CThIAvU5sjJnTvbpenscQSSw6kakVCHy"
+      },
+      {
+        "alt": "8",
+        "url": "16eeh_7C6rxzyD490W4_oxd2XwJomsbaD"
+      },
+      {
+        "alt": "9",
+        "url": "1kI6Io0SeFL2ql1c_k115htq_OTaDQjKY"
+      },
+      {
+        "alt": "10",
+        "url": "19okqaxaYoPKQ4qVvMbz4mFsU_80Grx-e"
+      }
+    ],
+    "recruitment": {
+      "oprec": "",
+      "guidebook": ""
+    },
+    "location": {
+      "url": "",
+      "detail": ""
+    },
+    "media": [
+      {
+        "type": "instagram",
+        "url": "https://www.instagram.com/yacarandaugm/"
+      },
+      {
+        "type": "youtube",
+        "url": "https://www.youtube.com/@yacarandateam6049"
+      },
+      {
+        "type": "line",
+        "url": ""
+      },
+      {
+        "type": "twitter",
+        "url": ""
+      },
+      {
+        "type": "email",
+        "url": "mailto:yacaranda.sv.ugm@gmail.com"
+      },
+      {
+        "type": "website",
+        "url": "https://yacaranda.sv.ugm.ac.id/"
+      },
+      {
+        "type": "tiktok",
+        "url": "https://www.tiktok.com/@yacarandaugm"
+      },
+      {
+        "type": "linkedin",
+        "url": "https://www.linkedin.com/company/yacaranda-ugm/"
+      },
+      {
+        "type": "facebook",
+        "url": ""
+      },
+      {
+        "type": "medium",
+        "url": ""
+      },
+      {
+        "type": "spotify",
+        "url": ""
+      }
+    ]
+  }
+]

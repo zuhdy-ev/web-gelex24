@@ -1,0 +1,6 @@
+export { default as HeroDetailUKM } from './Hero/Hero'
+export { default as TentangDetailUKM } from './Tentang/Tentang'
+export { default as ProkerDetailUKM } from './Proker/Proker'
+export { default as GaleriDetailUKM } from './Galeri/Galeri'
+export { default as DivisiDetailUKM } from './Divisi/Divisi'
+export { default as MedsosDetailUKM } from './Medsos/Medsos'

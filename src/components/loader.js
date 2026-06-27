@@ -1,12 +1,25 @@
+// import PropTypes from 'prop-types'
+
+// export function akamaiLoader({ src, width }) {
+//   return `${process.env.NEXT_PUBLIC_BASE_URL}${src}?imwidth=${width}`
+// }
+
+// akamaiLoader.PropTypes = {
+//   src: PropTypes.string.isRequired,
+//   width: PropTypes.string.isRequired,
+// }
+
+// export default akamaiLoader
+
 import PropTypes from 'prop-types'
 
 export function akamaiLoader({ src, width }) {
-  return `${process.env.NEXT_PUBLIC_BASE_URL}${src}?imwidth=${width}`
+  return `${src}?imwidth=${width}`
 }
 
-akamaiLoader.PropTypes = {
+akamaiLoader.propTypes = {
   src: PropTypes.string.isRequired,
-  width: PropTypes.string.isRequired,
+  width: PropTypes.number.isRequired,
 }
 
 export default akamaiLoader

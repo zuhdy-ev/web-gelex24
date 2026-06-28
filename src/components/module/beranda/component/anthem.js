@@ -3,7 +3,6 @@ import React, { useState, useRef, useEffect } from 'react'
 import Image from 'next/image'
 
 export default function Anthem() {
-  const basePath = process.env.NEXT_PUBLIC_BASE_PATH
 
   const [isPlaying, setIsPlaying] = useState(false)
   const audioRef = useRef(null)
@@ -24,9 +23,12 @@ export default function Anthem() {
   }
 
   return (
-    <div className="fixed bottom-4 right-4 lg:bottom-4 lg:right-4 z-[200] flex items-center justify-center">
-      <button onClick={togglePlayPause} className="relative flex items-center justify-center w-[80px] h-[80px] lg:w-[208px] lg:h-[70px] xl:w-[208px] xl:h-[70px]">
-        <div className="block lg:hidden absolute inset-0 z-0 rounded-lg">
+    <div className="fixed bottom-4 right-4 z-[200] flex items-center justify-center lg:bottom-4 lg:right-4">
+      <button
+        onClick={togglePlayPause}
+        className="relative flex h-[80px] w-[80px] items-center justify-center lg:h-[70px] lg:w-[208px] xl:h-[70px] xl:w-[208px]"
+      >
+        <div className="absolute inset-0 z-0 block rounded-lg lg:hidden">
           <Image
             src="/assets/beranda/hero/bg-anthem-mobile.png"
             alt="Anthem Background Mobile"
@@ -67,8 +69,7 @@ export default function Anthem() {
           />
         </div>
       </button>
-      <audio ref={audioRef} src={`/2024/gelex/assets/audio/anthem-gelex.mp3`} />
+      <audio ref={audioRef} src={`/assets/audio/anthem-gelex.mp3`} />
     </div>
   )
 }
-

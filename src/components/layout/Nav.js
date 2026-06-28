@@ -5,8 +5,6 @@ import { usePathname } from 'next/navigation'
 import Image from 'next/image'
 
 export default function Nav() {
-  const basePath = process.env.NEXT_PUBLIC_BASE_PATH
-
   const [isNavVisible, setNavVisible] = useState(false)
   const [showNavbar, setShowNavbar] = useState(true)
   const [lastScrollTop, setLastScrollTop] = useState(0)
@@ -45,7 +43,7 @@ export default function Nav() {
         <div className="relative mt-4 flex w-full items-center justify-center">
           <img
             className="h-[10vh] w-[80vw] max-w-[1120px]"
-            src="/2024/gelex/assets/navbar/navbar-bg.png"
+            src="/assets/navbar/navbar-bg.png"
             alt="Custom Image"
           />
           <div className="absolute inset-0 flex items-center justify-center">
@@ -103,7 +101,7 @@ export default function Nav() {
           </button>
         </div>
         <div
-          className={`fixed right-0 top-0 z-[1000] h-full w-3/4 transform bg-[url('/2024/gelex/assets/navbar/navbar-bg-menu-mobile.png')] bg-cover bg-no-repeat p-4 ${
+          className={`fixed right-0 top-0 z-[1000] h-full w-3/4 transform bg-[url('/assets/navbar/navbar-bg-menu-mobile.png')] bg-cover bg-no-repeat p-4 ${
             isNavVisible ? 'translate-x-0' : 'translate-x-full'
           } transition-transform duration-300`}
         >

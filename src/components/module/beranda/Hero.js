@@ -40,8 +40,8 @@ export default function Hero() {
           <Image
             src="/assets/beranda/hero/gelex-main.png"
             alt="GELEX Main"
-            width={0}
-            height={0}
+            width={1440}
+            height={421}
             className="h-[350px] w-[1600px] object-contain"
             priority={true}
           />
@@ -50,8 +50,8 @@ export default function Hero() {
           <Image
             src="/assets/beranda/hero/gelex-main-mobile.png"
             alt="GELEX Main Mobile"
-            width={0}
-            height={0}
+            width={620}
+            height={350}
             className="h-[175px] w-[900px] object-contain"
             priority={true}
           />
@@ -61,8 +61,8 @@ export default function Hero() {
         <Image
           src="/assets/beranda/hero/tongkat-sign.png"
           alt="Tongkat Sign"
-          width={0}
-          height={0}
+          width={368}
+          height={161}
           className="w-[700px] object-contain"
           priority={true}
         />
@@ -72,8 +72,8 @@ export default function Hero() {
           <Image
             src="/assets/beranda/hero/sign-ukmapakahaku.png"
             alt="Sign UKM Apakah Aku"
-            width={0}
-            height={0}
+            width={553}
+            height={117}
             className="w-[500px] object-contain"
             priority={true}
           />
@@ -83,8 +83,8 @@ export default function Hero() {
         <Image
           src="/assets/beranda/hero/ground.png"
           alt="Ground"
-          width={2621}
-          height={1200}
+          width={5760}
+          height={800}
           className="h-auto w-full object-contain opacity-[96%]"
           priority={true}
         />
@@ -93,8 +93,8 @@ export default function Hero() {
         <Image
           src="/assets/beranda/hero/ground-mobile.png"
           alt="Ground Mobile"
-          width={900}
-          height={450}
+          width={1440}
+          height={656}
           className="h-auto w-full object-contain"
           priority={true}
         />
@@ -103,8 +103,8 @@ export default function Hero() {
         <Image
           src="/assets/beranda/hero/rocks-left.png"
           alt="Rocks Left"
-          width={0}
-          height={0}
+          width={710}
+          height={978}
           className="h-[25vh] w-auto object-contain"
           priority={true}
         />
@@ -125,8 +125,8 @@ export default function Hero() {
         <Image
           src="/assets/beranda/hero/highlights.png"
           alt="Highlights"
-          width={1000}
-          height={800}
+          width={1665}
+          height={1510}
           className="object-contain"
           priority={true}
         />
@@ -146,18 +146,18 @@ export default function Hero() {
           <Image
             src="/assets/beranda/hero/tree-left.png"
             alt="Tree Left"
-            width={1000}
-            height={1000}
+            width={1027}
+            height={861}
             className="object-contain"
             priority={true}
           />
         </div>
-        <div className="absolute z-[40] sm:block md:hidden left-[-35vw] top-[40vh] w-[100vw] h-[120vh] xxs:left-[-30vw] xxs:top-[34vh] xs:left-[-35vw] xs:top-[30vh] sm:left-[-35vw] sm:top-[5vh] md:left-[-35vw] md:top-[3vh] md:w-[100vh] md:h-[100vh]">
+        <div className="absolute left-[-35vw] top-[40vh] z-[40] h-[120vh] w-[100vw] xxs:left-[-30vw] xxs:top-[34vh] xs:left-[-35vw] xs:top-[30vh] sm:left-[-35vw] sm:top-[5vh] sm:block md:left-[-35vw] md:top-[3vh] md:hidden md:h-[100vh] md:w-[100vh]">
           <Image
             src="/assets/beranda/hero/rocks-bush-tree.png"
             alt="Rocks Bush Tree"
-            width={800}
-            height={800}
+            width={816}
+            height={1124}
             className="object-contain"
             priority={true}
           />
@@ -168,8 +168,8 @@ export default function Hero() {
         <Image
           src="/assets/beranda/hero/bush-left.png"
           alt="Bush Left"
-          width={0}
-          height={0}
+          width={1276}
+          height={1376}
           className="h-[45vh] w-auto object-contain"
           priority={true}
         />
@@ -178,18 +178,18 @@ export default function Hero() {
         <Image
           src="/assets/beranda/hero/gemmy.png"
           alt="Gemmy"
-          width={400}
-          height={400}
+          width={531}
+          height={635}
           className="h-[80vh] w-auto object-contain"
           priority={true}
         />
       </div>
-      <div className="absolute bottom-[-2vh] right-0 translate-x-40 z-50 flex items-end md:hidden">
+      <div className="absolute bottom-[-2vh] right-0 z-50 flex translate-x-40 items-end md:hidden">
         <Image
           src="/assets/beranda/hero/gemmy-mobile.png"
           alt="Gemmy Mobile"
-          width={400}
-          height={400}
+          width={461}
+          height={626}
           className="h-[60vh] object-contain"
           priority={true}
         />
@@ -197,8 +197,9 @@ export default function Hero() {
       <div className="absolute bottom-[9vh] right-[15vh] z-30 xxxs:hidden xs:hidden sm:right-[10vh] sm:hidden md:bottom-[1vh] md:right-[1vh] md:block lg:bottom-[5vh] lg:right-[1vh] xl:bottom-[10vh] xl:right-[1.5vh]">
         <Image
           src="/assets/beranda/hero/bush-right.png"
-          width={500}
-          height={400}
+          alt="Bush Right"
+          width={1896}
+          height={1680}
           className="h-[400px] w-[500px] object-contain"
           priority={true}
         />
@@ -206,8 +207,9 @@ export default function Hero() {
       <div className="absolute bottom-[17vh] left-[22vh] z-[37] xxxs:hidden xs:hidden sm:bottom-[15vh] sm:left-[18vh] sm:hidden md:bottom-[16vh] md:left-[20vh] md:block lg:bottom-[8.5vh] lg:left-[17vh] xl:bottom-[12vh] xl:left-[22vh] 2xl:bottom-[17vh]">
         <Image
           src="/assets/beranda/hero/sign-right.png"
-          width={0}
-          height={0}
+          alt="Sign Right"
+          width={855}
+          height={815}
           className="h-[200px] w-[200px] object-contain md:hidden lg:block"
           priority={true}
         />
@@ -215,8 +217,9 @@ export default function Hero() {
       <div className="absolute bottom-4 left-0 z-[99] xxxs:bottom-[-20vh] xxxs:h-[70%] xxxs:w-[70%] xxs:bottom-[-12vh] xs:bottom-16 xs:h-[40vh] xs:w-[35vh] md:hidden">
         <Image
           src="/assets/beranda/hero/sign-mobile.png"
-          width={0}
-          height={0}
+          alt="Sign Mobile"
+          width={243}
+          height={285}
           className="h-[450px] w-[450px] object-contain"
           priority={true}
         />
@@ -226,8 +229,9 @@ export default function Hero() {
           <Link href="/ukm-apakah-aku" className="absolute inset-0">
             <Image
               src="/assets/beranda/hero/papan-sign.png"
-              width={450}
-              height={450}
+              alt="Papan Sign"
+              width={268}
+              height={172}
               className="object-contain"
               priority={true}
             />

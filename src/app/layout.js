@@ -42,7 +42,7 @@ export default function RootLayout({ children }) {
     <AppProvider>
       <html lang="en" className={`${magicretro.variable} ${mulish.variable}`}>
         <head>
-          <link rel="icon" href="/2024/gelex/images/favicon.io" />
+          <link rel="icon" href="/images/favicon.io" />
         </head>
         <body className={cn(mulish.className)}>
           <div className="fixed inset-0 z-[-1000] h-screen w-screen bg-[linear-gradient(180deg,#271146_0%,#984597_100%)]">
@@ -52,11 +52,11 @@ export default function RootLayout({ children }) {
               minSize={0.6}
               maxSize={1.4}
               particleDensity={100}
-              className="w-full h-full"
+              className="h-full w-full"
               particleColor="#FFFFFF"
             />
           </div>
-          <div className="flex justify-center min-h-screen overflow-x-hidden">{children}</div>
+          <div className="flex min-h-screen justify-center overflow-x-hidden">{children}</div>
         </body>
       </html>
     </AppProvider>

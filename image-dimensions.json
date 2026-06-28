@@ -1,0 +1,2182 @@
+﻿[
+    {
+        "path":  "/assets/beranda/caraousel/bg-caraousel.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/caraousel/butterfly-left.png",
+        "width":  1109,
+        "height":  1276
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-button-caritahu.png",
+        "width":  1968,
+        "height":  292
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-button-selengkapnya.png",
+        "width":  1968,
+        "height":  292
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-button-selengkapnya2.png",
+        "width":  1968,
+        "height":  292
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-card-komunitas-mobile.png",
+        "width":  360,
+        "height":  518
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-card-komunitas.png",
+        "width":  1013,
+        "height":  649
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-card-ukm-mobile.png",
+        "width":  360,
+        "height":  518
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-card-ukm.png",
+        "width":  1013,
+        "height":  649
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-card-ukmapakahaku-mobile.png",
+        "width":  360,
+        "height":  518
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-card-ukmapakahaku.png",
+        "width":  1013,
+        "height":  649
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-title-komunitas.png",
+        "width":  2497,
+        "height":  551
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-title-ukm.png",
+        "width":  1888,
+        "height":  1232
+    },
+    {
+        "path":  "/assets/beranda/caraousel/caraousel-title-ukmapakahaku.png",
+        "width":  1560,
+        "height":  752
+    },
+    {
+        "path":  "/assets/beranda/caraousel/lightning-mobile.png",
+        "width":  720,
+        "height":  1126
+    },
+    {
+        "path":  "/assets/beranda/caraousel/lightning.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/caraousel/lightning2.png",
+        "width":  285,
+        "height":  126
+    },
+    {
+        "path":  "/assets/beranda/caraousel/wooden-board.png",
+        "width":  273,
+        "height":  206
+    },
+    {
+        "path":  "/assets/beranda/hero/anthem-pause.png",
+        "width":  120,
+        "height":  120
+    },
+    {
+        "path":  "/assets/beranda/hero/anthem-play.png",
+        "width":  120,
+        "height":  120
+    },
+    {
+        "path":  "/assets/beranda/hero/anthem-text.png",
+        "width":  569,
+        "height":  93
+    },
+    {
+        "path":  "/assets/beranda/hero/bg-anthem-mobile.png",
+        "width":  288,
+        "height":  288
+    },
+    {
+        "path":  "/assets/beranda/hero/bg-anthem.png",
+        "width":  944,
+        "height":  328
+    },
+    {
+        "path":  "/assets/beranda/hero/bg-hero.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/hero/bg-texture.png",
+        "width":  1080,
+        "height":  705
+    },
+    {
+        "path":  "/assets/beranda/hero/bush-left.png",
+        "width":  1276,
+        "height":  1376
+    },
+    {
+        "path":  "/assets/beranda/hero/bush-right.png",
+        "width":  1896,
+        "height":  1680
+    },
+    {
+        "path":  "/assets/beranda/hero/clouds.png",
+        "width":  1080,
+        "height":  705
+    },
+    {
+        "path":  "/assets/beranda/hero/gelex-main-mobile.png",
+        "width":  620,
+        "height":  350
+    },
+    {
+        "path":  "/assets/beranda/hero/gelex-main.png",
+        "width":  1440,
+        "height":  421
+    },
+    {
+        "path":  "/assets/beranda/hero/gemmy-mobile.png",
+        "width":  461,
+        "height":  626
+    },
+    {
+        "path":  "/assets/beranda/hero/gemmy.png",
+        "width":  531,
+        "height":  635
+    },
+    {
+        "path":  "/assets/beranda/hero/ground-mobile.png",
+        "width":  1440,
+        "height":  656
+    },
+    {
+        "path":  "/assets/beranda/hero/ground.png",
+        "width":  5760,
+        "height":  800
+    },
+    {
+        "path":  "/assets/beranda/hero/highlights.png",
+        "width":  1665,
+        "height":  1510
+    },
+    {
+        "path":  "/assets/beranda/hero/lights-mobile.png",
+        "width":  360,
+        "height":  504
+    },
+    {
+        "path":  "/assets/beranda/hero/papan-sign.png",
+        "width":  268,
+        "height":  172
+    },
+    {
+        "path":  "/assets/beranda/hero/rocks-bush-tree.png",
+        "width":  816,
+        "height":  1124
+    },
+    {
+        "path":  "/assets/beranda/hero/rocks-left.png",
+        "width":  710,
+        "height":  978
+    },
+    {
+        "path":  "/assets/beranda/hero/sign-mobile.png",
+        "width":  243,
+        "height":  285
+    },
+    {
+        "path":  "/assets/beranda/hero/sign-right.png",
+        "width":  855,
+        "height":  815
+    },
+    {
+        "path":  "/assets/beranda/hero/sign-ukmapakahaku.png",
+        "width":  553,
+        "height":  117
+    },
+    {
+        "path":  "/assets/beranda/hero/tongkat-sign.png",
+        "width":  368,
+        "height":  161
+    },
+    {
+        "path":  "/assets/beranda/hero/tree-left.png",
+        "width":  1027,
+        "height":  861
+    },
+    {
+        "path":  "/assets/beranda/hero/tree-shadow.png",
+        "width":  1068,
+        "height":  1116
+    },
+    {
+        "path":  "/assets/beranda/medpart/bg-medpart.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/medpart/gilang.png",
+        "width":  640,
+        "height":  677
+    },
+    {
+        "path":  "/assets/beranda/medpart/rumah-mobile.png",
+        "width":  156,
+        "height":  237
+    },
+    {
+        "path":  "/assets/beranda/medpart/rumah.png",
+        "width":  549,
+        "height":  602
+    },
+    {
+        "path":  "/assets/beranda/medpart/stamp-medpart-mobile.png",
+        "width":  355,
+        "height":  547
+    },
+    {
+        "path":  "/assets/beranda/medpart/stamp-medpart.png",
+        "width":  1318,
+        "height":  660
+    },
+    {
+        "path":  "/assets/beranda/medpart/stars-effect.png",
+        "width":  360,
+        "height":  640
+    },
+    {
+        "path":  "/assets/beranda/medpart/title-medpart-mobile.png",
+        "width":  555,
+        "height":  230
+    },
+    {
+        "path":  "/assets/beranda/medpart/title-medpart.png",
+        "width":  1044,
+        "height":  155
+    },
+    {
+        "path":  "/assets/beranda/medpart/tree.png",
+        "width":  782,
+        "height":  782
+    },
+    {
+        "path":  "/assets/beranda/splash/sparkle.png",
+        "width":  720,
+        "height":  360
+    },
+    {
+        "path":  "/assets/beranda/sponsor/bg-sponsor.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/sponsor/gantari.png",
+        "width":  473,
+        "height":  884
+    },
+    {
+        "path":  "/assets/beranda/sponsor/lights-sponsor.png",
+        "width":  444,
+        "height":  441
+    },
+    {
+        "path":  "/assets/beranda/sponsor/rock-sponsor.png",
+        "width":  338,
+        "height":  610
+    },
+    {
+        "path":  "/assets/beranda/sponsor/stamp-sponsor-mobile.png",
+        "width":  710,
+        "height":  1094
+    },
+    {
+        "path":  "/assets/beranda/sponsor/stamp-sponsor.png",
+        "width":  1318,
+        "height":  660
+    },
+    {
+        "path":  "/assets/beranda/sponsor/stars.png",
+        "width":  1114,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/sponsor/title-sponsor-mobile.png",
+        "width":  720,
+        "height":  212
+    },
+    {
+        "path":  "/assets/beranda/sponsor/title-sponsor.png",
+        "width":  744,
+        "height":  170
+    },
+    {
+        "path":  "/assets/beranda/tentang/bg-tentang.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/tentang/button-selengkapnya.png",
+        "width":  1024,
+        "height":  292
+    },
+    {
+        "path":  "/assets/beranda/tentang/glow-butterfly.png",
+        "width":  816,
+        "height":  720
+    },
+    {
+        "path":  "/assets/beranda/tentang/light-effects.png",
+        "width":  2276,
+        "height":  1704
+    },
+    {
+        "path":  "/assets/beranda/tentang/light.png",
+        "width":  997,
+        "height":  260
+    },
+    {
+        "path":  "/assets/beranda/tentang/lights-effects2.png",
+        "width":  4603,
+        "height":  3345
+    },
+    {
+        "path":  "/assets/beranda/tentang/paper-mobile.png",
+        "width":  311,
+        "height":  427
+    },
+    {
+        "path":  "/assets/beranda/tentang/paper.png",
+        "width":  1140,
+        "height":  549
+    },
+    {
+        "path":  "/assets/beranda/tentang/paw-left.png",
+        "width":  791,
+        "height":  800
+    },
+    {
+        "path":  "/assets/beranda/tentang/paw-right.png",
+        "width":  820,
+        "height":  817
+    },
+    {
+        "path":  "/assets/beranda/tentang/plant-left.png",
+        "width":  826,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/tentang/plant-right.png",
+        "width":  721,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/timeline/active_penampil.png",
+        "width":  642,
+        "height":  87
+    },
+    {
+        "path":  "/assets/beranda/timeline/active_penampil_2.png",
+        "width":  642,
+        "height":  87
+    },
+    {
+        "path":  "/assets/beranda/timeline/active_penampil_3.png",
+        "width":  642,
+        "height":  87
+    },
+    {
+        "path":  "/assets/beranda/timeline/active_rundown.png",
+        "width":  642,
+        "height":  87
+    },
+    {
+        "path":  "/assets/beranda/timeline/active_rundown_2.png",
+        "width":  642,
+        "height":  87
+    },
+    {
+        "path":  "/assets/beranda/timeline/active_rundown_3.png",
+        "width":  642,
+        "height":  87
+    },
+    {
+        "path":  "/assets/beranda/timeline/bg-popup-day1.png",
+        "width":  1109,
+        "height":  735
+    },
+    {
+        "path":  "/assets/beranda/timeline/bg-popup-day2.png",
+        "width":  1109,
+        "height":  735
+    },
+    {
+        "path":  "/assets/beranda/timeline/bg-popup-day3.png",
+        "width":  1109,
+        "height":  735
+    },
+    {
+        "path":  "/assets/beranda/timeline/bg-popup-mobile.png",
+        "width":  355,
+        "height":  548
+    },
+    {
+        "path":  "/assets/beranda/timeline/bg-popup.png",
+        "width":  1181,
+        "height":  807
+    },
+    {
+        "path":  "/assets/beranda/timeline/bg-timeline.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/beranda/timeline/butterfly.png",
+        "width":  544,
+        "height":  537
+    },
+    {
+        "path":  "/assets/beranda/timeline/button-day1.png",
+        "width":  1361,
+        "height":  559
+    },
+    {
+        "path":  "/assets/beranda/timeline/button-day2.png",
+        "width":  1369,
+        "height":  294
+    },
+    {
+        "path":  "/assets/beranda/timeline/button-day3.png",
+        "width":  1361,
+        "height":  567
+    },
+    {
+        "path":  "/assets/beranda/timeline/card-day1.png",
+        "width":  532,
+        "height":  548
+    },
+    {
+        "path":  "/assets/beranda/timeline/card-day2.png",
+        "width":  484,
+        "height":  484
+    },
+    {
+        "path":  "/assets/beranda/timeline/card-day3.png",
+        "width":  527,
+        "height":  548
+    },
+    {
+        "path":  "/assets/beranda/timeline/gemmy-1.png",
+        "width":  304,
+        "height":  371
+    },
+    {
+        "path":  "/assets/beranda/timeline/gemmy-2.png",
+        "width":  296,
+        "height":  264
+    },
+    {
+        "path":  "/assets/beranda/timeline/gemmy-mobile.png",
+        "width":  216,
+        "height":  294
+    },
+    {
+        "path":  "/assets/beranda/timeline/lightning2.png",
+        "width":  1440,
+        "height":  814
+    },
+    {
+        "path":  "/assets/beranda/timeline/lights-effect.png",
+        "width":  1140,
+        "height":  524
+    },
+    {
+        "path":  "/assets/beranda/timeline/panah_atas.png",
+        "width":  56,
+        "height":  57
+    },
+    {
+        "path":  "/assets/beranda/timeline/panah_bawah.png",
+        "width":  64,
+        "height":  65
+    },
+    {
+        "path":  "/assets/beranda/timeline/pond.png",
+        "width":  1317,
+        "height":  494
+    },
+    {
+        "path":  "/assets/beranda/timeline/popup-bg-mobile.png",
+        "width":  710,
+        "height":  1096
+    },
+    {
+        "path":  "/assets/beranda/timeline/popup-mobile-day1.png",
+        "width":  355,
+        "height":  548
+    },
+    {
+        "path":  "/assets/beranda/timeline/popup-mobile-day2.png",
+        "width":  355,
+        "height":  548
+    },
+    {
+        "path":  "/assets/beranda/timeline/popup-mobile-day3.png",
+        "width":  355,
+        "height":  548
+    },
+    {
+        "path":  "/assets/beranda/timeline/sliwer_kanan.png",
+        "width":  49,
+        "height":  16
+    },
+    {
+        "path":  "/assets/beranda/timeline/sliwer_kiri.png",
+        "width":  49,
+        "height":  16
+    },
+    {
+        "path":  "/assets/beranda/timeline/stamp-day1.png",
+        "width":  885,
+        "height":  650
+    },
+    {
+        "path":  "/assets/beranda/timeline/stamp-day2.png",
+        "width":  852,
+        "height":  757
+    },
+    {
+        "path":  "/assets/beranda/timeline/stamp-day3.png",
+        "width":  872,
+        "height":  697
+    },
+    {
+        "path":  "/assets/beranda/timeline/title-timeline-mobile.png",
+        "width":  665,
+        "height":  266
+    },
+    {
+        "path":  "/assets/beranda/timeline/title-timeline.png",
+        "width":  2582,
+        "height":  435
+    },
+    {
+        "path":  "/assets/beranda/timeline/water.png",
+        "width":  1796,
+        "height":  807
+    },
+    {
+        "path":  "/assets/faq/bg-gradient-kuning-coklat-ijo.png",
+        "width":  1440,
+        "height":  2820
+    },
+    {
+        "path":  "/assets/faq/gilang-frame.png",
+        "width":  355,
+        "height":  363
+    },
+    {
+        "path":  "/assets/faq/tekstur-faq.png",
+        "width":  512,
+        "height":  1003
+    },
+    {
+        "path":  "/assets/footer/bg-footer.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/footer/bg1-mobile.png",
+        "width":  360,
+        "height":  354
+    },
+    {
+        "path":  "/assets/footer/bg2-mobile.png",
+        "width":  360,
+        "height":  497
+    },
+    {
+        "path":  "/assets/footer/cc-mobile.png",
+        "width":  965,
+        "height":  132
+    },
+    {
+        "path":  "/assets/footer/footer-bg1.png",
+        "width":  1439,
+        "height":  476
+    },
+    {
+        "path":  "/assets/footer/footer-bg2.png",
+        "width":  1439,
+        "height":  727
+    },
+    {
+        "path":  "/assets/footer/footer-cc.png",
+        "width":  2888,
+        "height":  258
+    },
+    {
+        "path":  "/assets/footer/footer-gelex.png",
+        "width":  500,
+        "height":  168
+    },
+    {
+        "path":  "/assets/footer/footer-ig.png",
+        "width":  160,
+        "height":  161
+    },
+    {
+        "path":  "/assets/footer/footer-line.png",
+        "width":  160,
+        "height":  161
+    },
+    {
+        "path":  "/assets/footer/footer-text-mobile.png",
+        "width":  1120,
+        "height":  716
+    },
+    {
+        "path":  "/assets/footer/footer-tt.png",
+        "width":  160,
+        "height":  161
+    },
+    {
+        "path":  "/assets/footer/footer-twt.png",
+        "width":  160,
+        "height":  161
+    },
+    {
+        "path":  "/assets/footer/footer-yt.png",
+        "width":  160,
+        "height":  161
+    },
+    {
+        "path":  "/assets/footer/shadow.png",
+        "width":  1647,
+        "height":  1712
+    },
+    {
+        "path":  "/assets/footer/text-forkom.png",
+        "width":  678,
+        "height":  154
+    },
+    {
+        "path":  "/assets/input/bg-input-3G-mobile.png",
+        "width":  646,
+        "height":  362
+    },
+    {
+        "path":  "/assets/input/bg-input-desktop.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/input/bg-input-mobile.png",
+        "width":  360,
+        "height":  640
+    },
+    {
+        "path":  "/assets/input/icon-green-alert.png",
+        "width":  80,
+        "height":  76
+    },
+    {
+        "path":  "/assets/input/icon-red-alert.png",
+        "width":  48,
+        "height":  48
+    },
+    {
+        "path":  "/assets/input/icon-yellow-alert.png",
+        "width":  48,
+        "height":  48
+    },
+    {
+        "path":  "/assets/komunitas/bg-gradient-ijo-tua-kuning.png",
+        "width":  1689,
+        "height":  962
+    },
+    {
+        "path":  "/assets/komunitas/gemmy-mobile.png",
+        "width":  360,
+        "height":  272
+    },
+    {
+        "path":  "/assets/komunitas/harta-karun-mobile.png",
+        "width":  360,
+        "height":  507
+    },
+    {
+        "path":  "/assets/komunitas/harta-karun.png",
+        "width":  1440,
+        "height":  924
+    },
+    {
+        "path":  "/assets/komunitas/semak-semak-mobile.png",
+        "width":  360,
+        "height":  180
+    },
+    {
+        "path":  "/assets/komunitas/semak-semak.png",
+        "width":  1440,
+        "height":  709
+    },
+    {
+        "path":  "/assets/landing-page/Logo-Universitas-Gelanggang-Mahasiswa-FORKOM.png",
+        "width":  2968,
+        "height":  2040
+    },
+    {
+        "path":  "/assets/landing-page/logo_gelex.png",
+        "width":  400,
+        "height":  400
+    },
+    {
+        "path":  "/assets/landing-page/logo_porsenigama.png",
+        "width":  394,
+        "height":  450
+    },
+    {
+        "path":  "/assets/navbar/nav-hover.png",
+        "width":  572,
+        "height":  200
+    },
+    {
+        "path":  "/assets/navbar/navbar-bg-menu-mobile.png",
+        "width":  289,
+        "height":  640
+    },
+    {
+        "path":  "/assets/navbar/navbar-bg-mobile.png",
+        "width":  176,
+        "height":  176
+    },
+    {
+        "path":  "/assets/navbar/navbar-bg.png",
+        "width":  1160,
+        "height":  100
+    },
+    {
+        "path":  "/assets/navbar/navbar-close-mobile.png",
+        "width":  176,
+        "height":  176
+    },
+    {
+        "path":  "/assets/navbar/navbar-line-mobile.png",
+        "width":  964,
+        "height":  8
+    },
+    {
+        "path":  "/assets/navbar/navbar-line.png",
+        "width":  5,
+        "height":  112
+    },
+    {
+        "path":  "/assets/not-found/404.png",
+        "width":  875,
+        "height":  1161
+    },
+    {
+        "path":  "/assets/not-found/bg-404.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/not-found/button-back.png",
+        "width":  587,
+        "height":  111
+    },
+    {
+        "path":  "/assets/not-found/gemmy.png",
+        "width":  525,
+        "height":  560
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/airsoft squad.png",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/arjuna.png",
+        "width":  1568,
+        "height":  1700
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/buddy club.png",
+        "width":  499,
+        "height":  400
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/dem.jpg",
+        "width":  652,
+        "height":  652
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/gamabunta.png",
+        "width":  1280,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/gamaforce.png",
+        "width":  3000,
+        "height":  3000
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/gamantaray.png",
+        "width":  3508,
+        "height":  2480
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/girl up.png",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/gmbb.png",
+        "width":  573,
+        "height":  639
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/iaas lc.jpg",
+        "width":  2480,
+        "height":  2480
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/kucing ugm.png",
+        "width":  8334,
+        "height":  8334
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/raja garuda.png",
+        "width":  2492,
+        "height":  2492
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/rampoe.png",
+        "width":  2065,
+        "height":  2123
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/semar.png",
+        "width":  8511,
+        "height":  3556
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/sre.png",
+        "width":  189,
+        "height":  137
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/tanoto scholars association.png",
+        "width":  1700,
+        "height":  2200
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/ugm mun.png",
+        "width":  1649,
+        "height":  1649
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/logo-komunitas/yacaranda.png",
+        "width":  500,
+        "height":  500
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/divisi-judul-desktop.png",
+        "width":  306,
+        "height":  99
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/galeri-asset-foto-1-desktop.png",
+        "width":  686,
+        "height":  603
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/galeri-asset-foto-1-mobile.png",
+        "width":  515,
+        "height":  452
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/galeri-asset-foto-2-desktop.png",
+        "width":  746,
+        "height":  635
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/galeri-asset-foto-2-mobile.png",
+        "width":  187,
+        "height":  176
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/galeri-asset-foto-3-desktop.png",
+        "width":  240,
+        "height":  278
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/galeri-asset-foto-3-mobile.png",
+        "width":  61,
+        "height":  70
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/galeri-bg-bintang-desktop.png",
+        "width":  269,
+        "height":  242
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/hero-arah-desktop.png",
+        "width":  632,
+        "height":  490
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/hero-asset-nama-mobile.png",
+        "width":  84,
+        "height":  28
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/hero-awan-mobile.png",
+        "width":  720,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/hero-pohon-awan-desktop.png",
+        "width":  2880,
+        "height":  1880
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/hero-pohon-mobile.png",
+        "width":  720,
+        "height":  618
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-asset-desktop.png",
+        "width":  710,
+        "height":  1029
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-bg-bawah-mobile.png",
+        "width":  1420,
+        "height":  4414
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-email-desktop.png",
+        "width":  90,
+        "height":  90
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-fb-desktop.png",
+        "width":  90,
+        "height":  90
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-instagram-desktop.png",
+        "width":  90,
+        "height":  91
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-line-desktop.png",
+        "width":  90,
+        "height":  91
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-linkedin-desktop.png",
+        "width":  90,
+        "height":  91
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-medium-desktop.png",
+        "width":  90,
+        "height":  90
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-spotify-desktop.png",
+        "width":  90,
+        "height":  90
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-tiktok-desktop.png",
+        "width":  90,
+        "height":  91
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-web-desktop.png",
+        "width":  90,
+        "height":  91
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-X-desktop.png",
+        "width":  90,
+        "height":  91
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-icon-yt-desktop.png",
+        "width":  90,
+        "height":  91
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-judul-listMedsos-desktop.png",
+        "width":  704,
+        "height":  106
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-judul-maps-desktop.png",
+        "width":  560,
+        "height":  74
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/medsos-judul-medsos-desktop.png",
+        "width":  650,
+        "height":  306
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/proker-bg-desktop.png",
+        "width":  2160,
+        "height":  1410
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/proker-bg-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/proker-bg-tanaman-desktop.png",
+        "width":  2160,
+        "height":  658
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/proker-bg-tanaman-mobile.png",
+        "width":  720,
+        "height":  566
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/proker-bg-tekstur-mobile.png",
+        "width":  2160,
+        "height":  1410
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/proker-judul-mobile.png",
+        "width":  720,
+        "height":  181
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/sosmed-bg-glitter-desktop.png",
+        "width":  2160,
+        "height":  5696
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-bg-desktop.png",
+        "width":  2880,
+        "height":  3152
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-bg-gantari-desktop.png",
+        "width":  422,
+        "height":  708
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-bg-gilang-desktop.png",
+        "width":  978,
+        "height":  1294
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-bg-mobile.png",
+        "width":  720,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-bg-tanaman-mobile.png",
+        "width":  720,
+        "height":  400
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-filter-button-onClick-prestasi-desktop.png",
+        "width":  292,
+        "height":  57
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-filter-button-onClick-program-unggulan-desktop.png",
+        "width":  292,
+        "height":  57
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-filter-button-onClick-sejarah-desktop.png",
+        "width":  292,
+        "height":  57
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-filter-button-onClick-tentang-desktop.png",
+        "width":  292,
+        "height":  57
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-filter-button-prestasi-desktop.png",
+        "width":  806,
+        "height":  156
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-filter-button-program-unggulan-desktop.png",
+        "width":  806,
+        "height":  156
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-filter-button-sejarah-desktop.png",
+        "width":  806,
+        "height":  156
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-filter-button-tentang-desktop.png",
+        "width":  806,
+        "height":  156
+    },
+    {
+        "path":  "/assets/profil-ukm-komunitas/tentang-judul-desktop.png",
+        "width":  276,
+        "height":  95
+    },
+    {
+        "path":  "/assets/segera-hadir/bg-segera-hadir.png",
+        "width":  1440,
+        "height":  936
+    },
+    {
+        "path":  "/assets/segera-hadir/bumi-desktop.png",
+        "width":  2880,
+        "height":  1856
+    },
+    {
+        "path":  "/assets/segera-hadir/bumi-mobile.png",
+        "width":  720,
+        "height":  512
+    },
+    {
+        "path":  "/assets/segera-hadir/logo-gelex.png",
+        "width":  980,
+        "height":  980
+    },
+    {
+        "path":  "/assets/segera-hadir/logo-ugm-forkom-gelex.png",
+        "width":  416,
+        "height":  137
+    },
+    {
+        "path":  "/assets/segera-hadir/teks.png",
+        "width":  2077,
+        "height":  458
+    },
+    {
+        "path":  "/assets/segera-hadir/tekstur-desktop.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/segera-hadir/tekstur-mobile.png",
+        "width":  360,
+        "height":  640
+    },
+    {
+        "path":  "/assets/tentang/anthem-asset-judul-kanan-desktop.png",
+        "width":  294,
+        "height":  105
+    },
+    {
+        "path":  "/assets/tentang/anthem-asset-judul-kanan-mobile.png",
+        "width":  118,
+        "height":  43
+    },
+    {
+        "path":  "/assets/tentang/anthem-asset-judul-kiri-desktop.png",
+        "width":  294,
+        "height":  105
+    },
+    {
+        "path":  "/assets/tentang/anthem-asset-judul-kiri-mobile.png",
+        "width":  118,
+        "height":  43
+    },
+    {
+        "path":  "/assets/tentang/anthem-gantari-mobile.png",
+        "width":  123,
+        "height":  202
+    },
+    {
+        "path":  "/assets/tentang/anthem-gemmy-mobile.png",
+        "width":  138,
+        "height":  218
+    },
+    {
+        "path":  "/assets/tentang/anthem-langit-kanan-desktop.png",
+        "width":  980,
+        "height":  278
+    },
+    {
+        "path":  "/assets/tentang/anthem-langit-kanan-mobile.png",
+        "width":  310,
+        "height":  202
+    },
+    {
+        "path":  "/assets/tentang/anthem-langit-kiri-desktop.png",
+        "width":  859,
+        "height":  409
+    },
+    {
+        "path":  "/assets/tentang/anthem-langit-kiri-mobile.png",
+        "width":  252,
+        "height":  220
+    },
+    {
+        "path":  "/assets/tentang/anthem-pohon-kanan-desktop.png",
+        "width":  1440,
+        "height":  1738
+    },
+    {
+        "path":  "/assets/tentang/anthem-pohon-kanan-mobile.png",
+        "width":  882,
+        "height":  2396
+    },
+    {
+        "path":  "/assets/tentang/anthem-pohon-kiri-desktop.png",
+        "width":  1163,
+        "height":  1449
+    },
+    {
+        "path":  "/assets/tentang/anthem-pohon-kiri-mobile.png",
+        "width":  720,
+        "height":  1449
+    },
+    {
+        "path":  "/assets/tentang/anthem-texture-desktop.png",
+        "width":  1080,
+        "height":  1410
+    },
+    {
+        "path":  "/assets/tentang/anthem-texture-mobile.png",
+        "width":  360,
+        "height":  963
+    },
+    {
+        "path":  "/assets/tentang/gemmy-bg-desktop.png",
+        "width":  2160,
+        "height":  1410
+    },
+    {
+        "path":  "/assets/tentang/gemmy-bg-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/tentang/gemmy-himself-mobile.png",
+        "width":  365,
+        "height":  483
+    },
+    {
+        "path":  "/assets/tentang/hero-judul-desktop.png",
+        "width":  1081,
+        "height":  574
+    },
+    {
+        "path":  "/assets/tentang/hero-judul-mobile.png",
+        "width":  541,
+        "height":  316
+    },
+    {
+        "path":  "/assets/tentang/hero-langit-desktop.png",
+        "width":  2880,
+        "height":  1379
+    },
+    {
+        "path":  "/assets/tentang/hero-langit-mobile.png",
+        "width":  360,
+        "height":  315
+    },
+    {
+        "path":  "/assets/tentang/hero-lubang-desktop.png",
+        "width":  2478,
+        "height":  1880
+    },
+    {
+        "path":  "/assets/tentang/hero-lubang-mobile.png",
+        "width":  360,
+        "height":  589
+    },
+    {
+        "path":  "/assets/tentang/hero-tanah-desktop.png",
+        "width":  2880,
+        "height":  780
+    },
+    {
+        "path":  "/assets/tentang/hero-tanah-mobile.png",
+        "width":  720,
+        "height":  450
+    },
+    {
+        "path":  "/assets/tentang/hero-tanaman-kanan-desktop.png",
+        "width":  628,
+        "height":  840
+    },
+    {
+        "path":  "/assets/tentang/hero-tanaman-kanan-mobile.png",
+        "width":  151,
+        "height":  230
+    },
+    {
+        "path":  "/assets/tentang/hero-tanaman-kiri-desktop.png",
+        "width":  544,
+        "height":  800
+    },
+    {
+        "path":  "/assets/tentang/hero-tanaman-kiri-mobile.png",
+        "width":  256,
+        "height":  322
+    },
+    {
+        "path":  "/assets/tentang/kenangan-2020.png",
+        "width":  415,
+        "height":  390
+    },
+    {
+        "path":  "/assets/tentang/kenangan-2021.png",
+        "width":  415,
+        "height":  390
+    },
+    {
+        "path":  "/assets/tentang/kenangan-2022.png",
+        "width":  415,
+        "height":  390
+    },
+    {
+        "path":  "/assets/tentang/kenangan-2023.png",
+        "width":  415,
+        "height":  390
+    },
+    {
+        "path":  "/assets/tentang/kenangan-bg-desktop.png",
+        "width":  2880,
+        "height":  1880
+    },
+    {
+        "path":  "/assets/tentang/kenangan-bg-mobile.png",
+        "width":  720,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-2020-active-desktop.png",
+        "width":  367,
+        "height":  326
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-2020-desktop.png",
+        "width":  367,
+        "height":  158
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-2021-active-desktop.png",
+        "width":  489,
+        "height":  435
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-2021-desktop.png",
+        "width":  489,
+        "height":  211
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-2022-active-desktop.png",
+        "width":  489,
+        "height":  435
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-2022-desktop.png",
+        "width":  245,
+        "height":  106
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-2023-active-desktop.png",
+        "width":  489,
+        "height":  435
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-2023-desktop.png",
+        "width":  489,
+        "height":  211
+    },
+    {
+        "path":  "/assets/tentang/kenangan-kayu-desktop.png",
+        "width":  4016,
+        "height":  61
+    },
+    {
+        "path":  "/assets/tentang/maskot-bg-mobile.png",
+        "width":  720,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/tentang/maskot-card-gantari-judul-mobile.png",
+        "width":  233,
+        "height":  46
+    },
+    {
+        "path":  "/assets/tentang/maskot-card-gilang-gantari-mobile.png",
+        "width":  258,
+        "height":  240
+    },
+    {
+        "path":  "/assets/tentang/maskot-card-gilang-judul-mobile.png",
+        "width":  227,
+        "height":  46
+    },
+    {
+        "path":  "/assets/tentang/maskot-judul-mobile.png",
+        "width":  1011,
+        "height":  321
+    },
+    {
+        "path":  "/assets/tentang/maskot-langit-mobile.png",
+        "width":  720,
+        "height":  379
+    },
+    {
+        "path":  "/assets/tentang/maskot-tanah-desktop.png",
+        "width":  2880,
+        "height":  1880
+    },
+    {
+        "path":  "/assets/tentang/maskot-tanah-mobile.png",
+        "width":  720,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/tentang/sejarah-buku-desktop.png",
+        "width":  1880,
+        "height":  818
+    },
+    {
+        "path":  "/assets/tentang/sejarah-buku-mobile.png",
+        "width":  720,
+        "height":  464
+    },
+    {
+        "path":  "/assets/tentang/sejarah-judul-mobile.png",
+        "width":  414,
+        "height":  174
+    },
+    {
+        "path":  "/assets/tentang/sejarah-tanaman-cahaya-atas-mobile.png",
+        "width":  720,
+        "height":  562
+    },
+    {
+        "path":  "/assets/tentang/sejarah-tanaman-cahaya-bawah-mobile.png",
+        "width":  720,
+        "height":  820
+    },
+    {
+        "path":  "/assets/tentang/sejarah-tanaman-cahaya-kanan-desktop.png",
+        "width":  956,
+        "height":  1880
+    },
+    {
+        "path":  "/assets/tentang/sejarah-tanaman-cahaya-kiri-desktop.png",
+        "width":  1815,
+        "height":  1880
+    },
+    {
+        "path":  "/assets/tentang/sejarah-texture-desktop.png",
+        "width":  2880,
+        "height":  1880
+    },
+    {
+        "path":  "/assets/tentang/sejarah-texture-mobile.png",
+        "width":  720,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/ukm/bata-video.png",
+        "width":  1440,
+        "height":  60
+    },
+    {
+        "path":  "/assets/ukm/bg-gradient-biru.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/ukm/bg-list-2.png",
+        "width":  360,
+        "height":  1058
+    },
+    {
+        "path":  "/assets/ukm/bg-list.png",
+        "width":  1440,
+        "height":  1562
+    },
+    {
+        "path":  "/assets/ukm/bg-ungu.png",
+        "width":  2473,
+        "height":  1648
+    },
+    {
+        "path":  "/assets/ukm/gemmy-desktop.png",
+        "width":  891,
+        "height":  628
+    },
+    {
+        "path":  "/assets/ukm/gemmy-mobile.png",
+        "width":  360,
+        "height":  436
+    },
+    {
+        "path":  "/assets/ukm/hiasan-card.png",
+        "width":  207,
+        "height":  28
+    },
+    {
+        "path":  "/assets/ukm/hutan-desktop.png",
+        "width":  1440,
+        "height":  861
+    },
+    {
+        "path":  "/assets/ukm/hutan-mobile.png",
+        "width":  360,
+        "height":  447
+    },
+    {
+        "path":  "/assets/ukm/judul-desktop.png",
+        "width":  430,
+        "height":  253
+    },
+    {
+        "path":  "/assets/ukm/kertas-video.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/ukm/paw-video.png",
+        "width":  1440,
+        "height":  922
+    },
+    {
+        "path":  "/assets/ukm/siluet-pohon-desktop.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/ukm/slide-left.png",
+        "width":  68,
+        "height":  73
+    },
+    {
+        "path":  "/assets/ukm/slide-right.png",
+        "width":  68,
+        "height":  73
+    },
+    {
+        "path":  "/assets/ukm/tanaman-video.png",
+        "width":  1440,
+        "height":  931
+    },
+    {
+        "path":  "/assets/ukm/texture-black-video.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/ukm/texture-video.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/ukm/white-paper-texture2.png",
+        "width":  1440,
+        "height":  940
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/AIESEC.png",
+        "width":  1265,
+        "height":  259
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Atletik.png",
+        "width":  1000,
+        "height":  1000
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Badminton.png",
+        "width":  365,
+        "height":  325
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Balairung.png",
+        "width":  1200,
+        "height":  822
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Basket.png",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/BEM.jpg",
+        "width":  596,
+        "height":  592
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Berkuda.png",
+        "width":  1109,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Bola.png",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Bridge.png",
+        "width":  491,
+        "height":  327
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Bulaksumur.png",
+        "width":  1280,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Catur.png",
+        "width":  976,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/E-sport.png",
+        "width":  3000,
+        "height":  3000
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Gama.png",
+        "width":  630,
+        "height":  456
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Gamaband.png",
+        "width":  1523,
+        "height":  1591
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/GMCO.png",
+        "width":  1600,
+        "height":  694
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/GMDS.jpg",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/HMP.png",
+        "width":  1956,
+        "height":  2048
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Hockey.png",
+        "width":  293,
+        "height":  322
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/IPSI.jpg",
+        "width":  500,
+        "height":  500
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Jamaah.png",
+        "width":  529,
+        "height":  161
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Judo.png",
+        "width":  884,
+        "height":  884
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Kamadhis.png",
+        "width":  960,
+        "height":  570
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Karate.jpg",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Kempo.png",
+        "width":  82,
+        "height":  82
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/KMHD.jpg",
+        "width":  1280,
+        "height":  1280
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Kopma.png",
+        "width":  1347,
+        "height":  1295
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Mapagama.png",
+        "width":  356,
+        "height":  335
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Marching.png",
+        "width":  1074,
+        "height":  1300
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Merpati.png",
+        "width":  720,
+        "height":  717
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Misa.png",
+        "width":  1163,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/MPM.jpg",
+        "width":  400,
+        "height":  400
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Panahan.png",
+        "width":  1238,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/PeduliDifabel.png",
+        "width":  1390,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Perisai.jpg",
+        "width":  225,
+        "height":  225
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Pramuka.png",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/ProPatria.png",
+        "width":  560,
+        "height":  560
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/PSHT.png",
+        "width":  960,
+        "height":  959
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/PSM.png",
+        "width":  1600,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Renang.png",
+        "width":  1600,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Satmenwa.png",
+        "width":  500,
+        "height":  500
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Selam.png",
+        "width":  1600,
+        "height":  1288
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Seni.png",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Swagayugama.png",
+        "width":  1088,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Taekwondo.png",
+        "width":  1600,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/TariBali.png",
+        "width":  1536,
+        "height":  1600
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/TenisLapangan.jpg",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/TenisMeja.png",
+        "width":  908,
+        "height":  906
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/TGM.png",
+        "width":  575,
+        "height":  380
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/UFO.png",
+        "width":  1600,
+        "height":  1405
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Ukesma.png",
+        "width":  278,
+        "height":  300
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/UKJGS.png",
+        "width":  269,
+        "height":  309
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/UKK.png",
+        "width":  355,
+        "height":  355
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/UPII.png",
+        "width":  1080,
+        "height":  1080
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/USB.png",
+        "width":  1600,
+        "height":  1467
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo/Voli.png",
+        "width":  1350,
+        "height":  1350
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/awan-tipe1.png",
+        "width":  686,
+        "height":  319
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/awan-tipe2.png",
+        "width":  962,
+        "height":  456
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/awan-tipe3.png",
+        "width":  1119,
+        "height":  424
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/background-hasil.png",
+        "width":  752,
+        "height":  930
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/batu-elemen1.png",
+        "width":  385,
+        "height":  780
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/batu-elemen2.png",
+        "width":  385,
+        "height":  780
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/batu-elemen3.png",
+        "width":  385,
+        "height":  780
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/batu-elemen4.png",
+        "width":  385,
+        "height":  780
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/batu.png",
+        "width":  268,
+        "height":  309
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/bgCard-bagikan.png",
+        "width":  536,
+        "height":  504
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/bgCard.png",
+        "width":  965,
+        "height":  906
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/danau-2-desktop.png",
+        "width":  1361,
+        "height":  762
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/elemen1.png",
+        "width":  172,
+        "height":  173
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/elemen2.png",
+        "width":  172,
+        "height":  179
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/elemen3.png",
+        "width":  172,
+        "height":  173
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/elemen4.png",
+        "width":  173,
+        "height":  172
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/footer-bagikan-baru.png",
+        "width":  540,
+        "height":  188
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/footer-bagikan.png",
+        "width":  540,
+        "height":  201
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/gemmy-invitation.png",
+        "width":  243,
+        "height":  171
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/gilgantari-invitation.png",
+        "width":  228,
+        "height":  187
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/harta-desktop.png",
+        "width":  455,
+        "height":  469
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/harta-mobile.png",
+        "width":  190,
+        "height":  184
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/invitation-ticket.png",
+        "width":  776,
+        "height":  270
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/invitation.png",
+        "width":  776,
+        "height":  270
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/jalanan-prolog1.png",
+        "width":  1944,
+        "height":  440
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/loading-background-desktop.png",
+        "width":  1282,
+        "height":  837
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/loading-background-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo-ukm-catur-rekomendasi.png",
+        "width":  200,
+        "height":  196
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/logo-ukm-catur.png",
+        "width":  764,
+        "height":  832
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/maskot.png",
+        "width":  1036,
+        "height":  1040
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/mobile.png",
+        "width":  540,
+        "height":  614
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-10-desktop.png",
+        "width":  1440,
+        "height":  654
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-10-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-11sampai12-desktop.png",
+        "width":  1440,
+        "height":  669
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-11sampai12-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-13sampai14-desktop.png",
+        "width":  1440,
+        "height":  656
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-13sampai14-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-15-desktop.png",
+        "width":  1440,
+        "height":  655
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-15-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-1sampai4-desktop.png",
+        "width":  2160,
+        "height":  992
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-1sampai4-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-5sampai6-desktop.png",
+        "width":  1440,
+        "height":  656
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-5sampai6-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-7-desktop.png",
+        "width":  1440,
+        "height":  653
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-7-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-8-desktop.png",
+        "width":  1440,
+        "height":  655
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-8-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-9-desktop.png",
+        "width":  1440,
+        "height":  673
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pertanyaan-9-mobile.png",
+        "width":  540,
+        "height":  960
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pohon-kanan-desktop.png",
+        "width":  1223,
+        "height":  1127
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/pohon-kiri-desktop.png",
+        "width":  1616,
+        "height":  1616
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/portal-prolog1-mobile.png",
+        "width":  540,
+        "height":  489
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/portal-prolog1.png",
+        "width":  1463,
+        "height":  902
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/rumput-desktop.png",
+        "width":  2160,
+        "height":  693
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/semak-kanan-2.png",
+        "width":  340,
+        "height":  125
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/semak-kanan.png",
+        "width":  298,
+        "height":  189
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/semak-kiri-2-desktop.png",
+        "width":  432,
+        "height":  151
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/tangan-prolog1.png",
+        "width":  455,
+        "height":  729
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/tekstur-invitation.png",
+        "width":  638,
+        "height":  151
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/vintage_paper.png",
+        "width":  645,
+        "height":  904
+    },
+    {
+        "path":  "/assets/ukm-apakah-aku/wooden_board.png",
+        "width":  550,
+        "height":  200
+    }
+]

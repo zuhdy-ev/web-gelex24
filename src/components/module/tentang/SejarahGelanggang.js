@@ -31,8 +31,8 @@ export default function SejarahGelanggang() {
         <div className="flex translate-y-10 flex-col items-center laptopL:translate-y-32">
           <Image
             src="/assets/tentang/sejarah-judul-mobile.png"
-            width={0}
-            height={0}
+            width={414}
+            height={174}
             alt="judul sejarah"
             className="w-[300px] s:w-96 laptopL:w-[600px]"
           />

@@ -65,8 +65,8 @@ export default function Timeline() {
         <Image
           src="/assets/beranda/timeline/title-timeline-mobile.png"
           alt="Title Timeline Mobile"
-          width={0}
-          height={0}
+          width={665}
+          height={266}
           className="h-[100px] w-[300px] object-contain"
         />
       </div>

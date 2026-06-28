@@ -47,15 +47,15 @@ export default function Input() {
         <div className="absolute z-0 h-full w-full">
           <Image
             src="/assets/input/bg-input-mobile.png"
-            width={0}
-            height={0}
+            width={360}
+            height={640}
             alt="latar belakang"
             className="h-full w-full object-cover md:hidden"
           />
           <Image
             src="/assets/input/bg-input-desktop.png"
-            width={0}
-            height={0}
+            width={1440}
+            height={940}
             alt="latar belakang"
             className="hidden h-full w-full object-cover md:flex"
           />
@@ -63,8 +63,8 @@ export default function Input() {
         <div className="absolute bottom-0 z-10 h-fit w-fit">
           <Image
             src="/assets/input/bg-input-3G-mobile.png"
-            width={0}
-            height={0}
+            width={646}
+            height={362}
             alt="latar belakang"
             className="h-full w-fit object-cover"
           />

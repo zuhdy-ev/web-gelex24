@@ -162,22 +162,22 @@ export default function Hasil() {
               <div className='absolute w-[88%] md:w-[90%] h-[80%] bg-[linear-gradient(to_bottom,#FFE5AF_-6.4%,#E6A263_99.85%)] shadow-[inset_0px_4px_10px_rgba(0,0,0,0.25)] flex flex-col items-center justify-center'>
                 <Image
                   src={'/assets/ukm-apakah-aku/tekstur-invitation.png'}
-                  width={0}
-                  height={0}
+                  width={638}
+                  height={151}
                   className="bg-blend-multiplay absolute h-full w-full mix-blend-multiply"
                   alt="invitation tekstur"
                 />
                 <Image
                   src={'/assets/ukm-apakah-aku/gemmy-invitation.png'}
-                  width={0}
-                  height={0}
+                  width={243}
+                  height={171}
                   className="absolute w-[22%] z-20 right-0  bottom-0 translate-x-[20%]"
                   alt="invitation gemmy"
                 />
                 <Image
                   src={'/assets/ukm-apakah-aku/gilgantari-invitation.png'}
-                  width={0}
-                  height={0}
+                  width={228}
+                  height={187}
                   className="absolute w-[22%] z-20 left-0  bottom-0 translate-x-[-20%]"
                   alt="invitation gilgantari"
                 />
@@ -210,8 +210,8 @@ export default function Hasil() {
             </div> */}
             <Image 
               src={'/assets/ukm-apakah-aku/invitation-ticket.png'}
-              width={0}
-              height={0}
+              width={776}
+              height={270}
               className='w-[85%] my-10 md:my-0 md:mb-16'
             />
             <Button

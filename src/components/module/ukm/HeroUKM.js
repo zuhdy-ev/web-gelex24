@@ -32,15 +32,15 @@ export function HeroUKM() {
       <Image
         src="/assets/ukm/hutan-desktop.png"
         alt="hutan"
-        width={0}
-        height={0}
+        width={1440}
+        height={861}
         className="absolute bottom-0 z-20 hidden w-full sm:block"
       />
       <Image
         src="/assets/ukm/hutan-mobile.png"
         alt="hutan"
-        width={0}
-        height={0}
+        width={360}
+        height={447}
         className="absolute bottom-0 z-20 w-[1000px] sm:hidden"
       />
       <Image
@@ -53,8 +53,8 @@ export function HeroUKM() {
       <Image
         src="/assets/ukm/gemmy-mobile.png"
         alt="gemmy"
-        width={0}
-        height={0}
+        width={360}
+        height={436}
         className="absolute bottom-0 z-20 w-full sm:hidden"
       />
       <HeroText description={description}>

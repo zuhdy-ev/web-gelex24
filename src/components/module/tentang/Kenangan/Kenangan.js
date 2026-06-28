@@ -18,16 +18,16 @@ export default function Kenangan() {
       <div className="absolute z-0 h-full w-full">
         <Image
           src="/assets/tentang/kenangan-bg-mobile.png"
-          width={0}
-          height={0}
+          width={720}
+          height={1280}
           style={{ height: '100%', width: '100%', objectFit: 'cover' }}
           alt="bg kenangan"
           className="h-full w-full md:hidden"
         />
         <Image
           src="/assets/tentang/kenangan-bg-desktop.png"
-          width={0}
-          height={0}
+          width={2880}
+          height={1880}
           style={{ height: '100%', width: '100%', objectFit: 'cover' }}
           alt="bg kenangan"
           className="hidden h-full w-full md:block"

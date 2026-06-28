@@ -63,8 +63,8 @@ export default function Sponsor() {
           <Image
             src="/assets/beranda/sponsor/title-sponsor.png"
             alt="Title Sponsor"
-            width={0}
-            height={0}
+            width={744}
+            height={170}
             className="h-[200px] w-[500px] object-contain"
           />
         </div>
@@ -93,8 +93,8 @@ export default function Sponsor() {
             <Image
               src="/assets/beranda/sponsor/title-sponsor-mobile.png"
               alt="Title Sponsor Mobile"
-              width={0}
-              height={0}
+              width={720}
+              height={212}
               className="h-[100px] w-[180px] object-contain"
             />
           </div>
@@ -102,8 +102,8 @@ export default function Sponsor() {
             <Image
               src="/assets/beranda/sponsor/stamp-sponsor-mobile.png"
               alt="Stamp Sponsor Mobile"
-              width={0}
-              height={0}
+              width={710}
+              height={1094}
               className="h-[800px] w-[800px] object-contain"
             />
             <div className="absolute inset-0 top-[-2vh] flex max-h-[100%] w-full scale-75 flex-wrap items-center justify-center gap-8 xxxs:scale-[0.4] xxs:scale-[0.4] xs:scale-[0.45] s:w-[65%] s:scale-75">

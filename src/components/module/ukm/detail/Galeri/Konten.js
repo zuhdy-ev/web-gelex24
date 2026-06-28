@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-// import Image from 'next/image'
+import Image from 'next/image'
 
 import { Swiper, SwiperSlide } from 'swiper/react'
 import 'swiper/css'
@@ -109,16 +109,15 @@ export default function Konten({ gallery }) {
         </div>
         {/* Foto onClick */}
         <div
-          className="h-full w-full overflow-hidden rounded-md bg-black lg:rounded-xl"
+          className="relative h-full w-full overflow-hidden rounded-md bg-black lg:rounded-xl"
           style={{ aspectRatio: '16/9' }}
         >
           <Image
             src={currentFoto}
             alt="foto besar"
+            fill
+            sizes="(max-width: 1000px) 100vw, 1000px"
             style={{ objectFit: 'cover' }}
-            width={0}
-            height={0}
-            className="h-full w-full"
           />
         </div>
       </div>
@@ -150,7 +149,7 @@ export default function Konten({ gallery }) {
           {gallery.map((item) => (
             <SwiperSlide key={item.url}>
               <div
-                className={`flex w-60 cursor-pointer items-center justify-center gap-3 overflow-hidden rounded-lg border hover:border-[3px] hover:border-yellow-500 ${activeUrl === item.url ? 'border-[3px] border-yellow-500' : 'hover:border-[3px] hover:border-yellow-500'}`}
+                className={`flex w-60 cursor-pointer items-center justify-center gap-3 overflow-hidden rounded-lg border hover:border-[3px] hover:border-yellow-500 ${currentFoto === `https://drive.google.com/uc?export=view&id=${item.url}` ? 'border-[3px] border-yellow-500' : 'hover:border-[3px] hover:border-yellow-500'}`}
                 onClick={() => handleFotoClick(item.url)}
                 style={{ aspectRatio: '16/9' }}
               >
@@ -169,105 +168,4 @@ export default function Konten({ gallery }) {
       </div>
     </div>
   )
-}
-
-{
-  /* <SwiperSlide>
-            <div
-              className="flex w-60 cursor-pointer items-center justify-center overflow-hidden rounded-lg border hover:border-[3px] hover:border-yellow-500"
-              onClick={() => handleFotoClick(foto1)}
-              style={{ aspectRatio: '16/9' }}
-            >
-              <Image
-                src={foto1}
-                alt="foto 1"
-                width={1000}
-                height={1000}
-                className=""
-                style={{ objectFit: 'cover' }}
-              />
-            </div>
-          </SwiperSlide> */
-}
-{
-  /* <SwiperSlide>
-            <div
-              className="flex w-60 cursor-pointer items-center justify-center overflow-hidden rounded-lg border hover:border-[3px] hover:border-yellow-500"
-              onClick={() => handleFotoClick(foto2)}
-              style={{ aspectRatio: '16/9' }}
-            >
-              <Image
-                src={foto2}
-                alt="foto 2"
-                style={{ objectFit: 'cover' }}
-                width={1000}
-                height={1000}
-                className="w-40"
-              />
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div
-              className="flex w-60 cursor-pointer items-center justify-center overflow-hidden rounded-lg border hover:border-[3px] hover:border-yellow-500"
-              onClick={() => handleFotoClick(foto3)}
-              style={{ aspectRatio: '16/9' }}
-            >
-              <Image
-                src={foto3}
-                alt="foto 3"
-                style={{ objectFit: 'cover' }}
-                width={1000}
-                height={1000}
-                className="w-40"
-              />
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div
-              className="flex w-60 cursor-pointer items-center justify-center overflow-hidden rounded-lg border hover:border-[3px] hover:border-yellow-500"
-              onClick={() => handleFotoClick(foto4)}
-              style={{ aspectRatio: '16/9' }}
-            >
-              <Image
-                src={foto4}
-                alt="foto 4"
-                style={{ objectFit: 'cover' }}
-                width={1000}
-                height={1000}
-                className="w-40"
-              />
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div
-              className="flex w-60 cursor-pointer items-center justify-center overflow-hidden rounded-lg border hover:border-[3px] hover:border-yellow-500"
-              onClick={() => handleFotoClick(foto5)}
-              style={{ aspectRatio: '16/9' }}
-            >
-              <Image
-                src={foto5}
-                alt="foto 5"
-                style={{ objectFit: 'cover' }}
-                width={1000}
-                height={1000}
-                className="w-40"
-              />
-            </div>
-          </SwiperSlide>
-          <SwiperSlide>
-            <div
-              className="flex w-60 cursor-pointer items-center justify-center overflow-hidden rounded-lg border hover:border-[3px] hover:border-yellow-500"
-              onClick={() => handleFotoClick(foto6)}
-              style={{ aspectRatio: '16/9' }}
-            >
-              <Image
-                src={foto6}
-                alt="foto 6"
-                style={{ objectFit: 'cover' }}
-                width={1000}
-                height={1000}
-                className="w-40"
-              />
-            </div>
-          </SwiperSlide> */
 }

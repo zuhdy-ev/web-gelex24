@@ -42,8 +42,8 @@ export default function Footer() {
         <Image
           src="/assets/footer/footer-cc.png"
           alt="Footer CC"
-          width={0}
-          height={0}
+          width={2888}
+          height={258}
           className="w-[650px] object-contain"
         />
       </div>
@@ -59,15 +59,15 @@ export default function Footer() {
         <Image
           src="/assets/footer/text-forkom.png"
           alt="Text Forkom"
-          width={0}
-          height={0}
+          width={678}
+          height={154}
           className="hidden h-[150px] w-[450px] object-contain md:block lg:hidden"
         />
         <Image
           src="/assets/footer/text-forkom.png"
           alt="Text Forkom"
-          width={0}
-          height={0}
+          width={678}
+          height={154}
           className="hidden h-[200px] w-[650px] object-contain lg:block xl:hidden"
         />
         <Image
@@ -80,8 +80,8 @@ export default function Footer() {
         <Image
           src="/assets/footer/footer-text-mobile.png"
           alt="Text Forkom Mobile"
-          width={0}
-          height={0}
+          width={1120}
+          height={716}
           className="block w-[250px] object-contain md:hidden"
         />
       </div>

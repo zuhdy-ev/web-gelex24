@@ -153,8 +153,8 @@ export default function Carousel() {
         <Image
           src="/assets/beranda/caraousel/butterfly-left.png"
           alt="Butterfly Left"
-          width={0}
-          height={0}
+          width={1109}
+          height={1276}
           className="w-[300px] object-contain"
         />
       </div>

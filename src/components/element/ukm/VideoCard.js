@@ -67,8 +67,8 @@ export default function VideoCard({ videos, onSlideChange }) {
             <Image
               src="/assets/ukm/hiasan-card.png"
               alt="hiasan"
-              width={0}
-              height={0}
+              width={207}
+              height={28}
               className="absolute bottom-6 right-14 w-[120px]"
             />
           </div>
@@ -79,8 +79,8 @@ export default function VideoCard({ videos, onSlideChange }) {
           <Image
             src="/assets/ukm/slide-left.png"
             alt="previous arrow"
-            width={0}
-            height={0}
+            width={68}
+            height={73}
             className="w-[50px]"
           />
         </button>
@@ -88,8 +88,8 @@ export default function VideoCard({ videos, onSlideChange }) {
           <Image
             src="/assets/ukm/slide-right.png"
             alt="next arrow"
-            width={0}
-            height={0}
+            width={68}
+            height={73}
             className="w-[50px]"
           />
         </button>

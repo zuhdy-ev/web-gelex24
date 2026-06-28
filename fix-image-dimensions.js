@@ -78,8 +78,8 @@ for (const filePath of allFiles) {
     const hasHeight0 = /height=\{0\}/.test(block)
     if (!hasWidth0 || !hasHeight0) return block
 
-    // Ekstrak src="..." (string literal)
-    const srcMatch = block.match(/src=["']([^"']+)["']/)
+    // Ekstrak src="..." atau src={'...'} atau src={"..."} (string literal)
+    const srcMatch = block.match(/src=\{?["']([^"']+)["']\}?/)
     if (!srcMatch) {
       totalSkipped++
       skippedDetails.push(`${filePath}: src dinamis/tidak ditemukan dalam blok Image`)
